@@ -4,3 +4,13 @@
 p{
     background-color: aliceblue;
 }
+html,body{
+    height: 100%;
+}
+.conteiner{
+    width: 100%;
+    height: 100%;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
