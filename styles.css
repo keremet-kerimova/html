@@ -1,9 +1,4 @@
-*{
-    box-sizing: border-box;
-}
-p{
-    background-color: aliceblue;
-}
+/*
 html,body{
     height: 100%;
 }
@@ -24,10 +19,30 @@ html,body{
 }
 #heart div:first-child{
   border-top-left-radius:50%;
-  border-
+  border-top-right-radius: 50%;
 }
 #heart div:last-child{
     position: relative;
     left: -100px;
     top: -100px;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius:50%;
+}
+@keyframes heart{
+	to { transform: scale(1.4); }
+}*/
+body { 
+    text-align: center; 
+  
+  }
+  .heart {
+	font-size: 150px;
+	color: #e00;
+	animation: beat .25s infinite alternate;
+	transform-origin: center;
+}
+
+/* Heart beat animation */
+@keyframes beat{
+	to { transform: scale(1.4); }
 }
