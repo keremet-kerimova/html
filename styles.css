@@ -9,28 +9,22 @@ html,body{
      justify-content: center;
      align-items: center;
 }
+
 #heart{
     transform:  rotate(45deg);
 }
-#heart div{
-    background-color: red;
-    width: 100px;
-    height: 100px;
-}
-#heart div:first-child{
+#heart:first-child{
   border-top-left-radius:50%;
   border-top-right-radius: 50%;
 }
-#heart div:last-child{
+#heart:last-child{
     position: relative;
     left: -100px;
     top: -100px;
     border-top-left-radius: 50%;
     border-bottom-left-radius:50%;
 }
-@keyframes heart{
-	to { transform: scale(1.4); }
-}*/
+*/
 body { 
     text-align: center; 
   
@@ -38,8 +32,12 @@ body {
   .heart {
 	font-size: 150px;
 	color: #e00;
-	animation: beat .15s infinite alternate;
+    animation: beat .20s infinite alternate;
+    animation-play-state: paused;
 	transform-origin: center;
+}
+.heart:hover{
+    animation-play-state: running;
 }
 
 @keyframes beat{
