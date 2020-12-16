@@ -38,7 +38,7 @@ body {
   .heart {
 	font-size: 150px;
 	color: #e00;
-	animation: beat .25s infinite alternate;
+	animation: beat .15s infinite alternate;
 	transform-origin: center;
 }
 
