@@ -11,7 +11,6 @@ div{
     padding-top: 2px;
     margin: 0;
     padding-left: 250px;
-
 }
 h3{
 font-family: 'Montserrat', sans-serif;
@@ -84,8 +83,9 @@ border-radius: 37px;
 flex: none;
 order: 0;
 flex-grow: 0;
-margin: 10px 0px;
-margin-left: 535px;
+width: 150px;
+margin: 10px 5px;
+margin-left: 289px;
 }
 .text{
 font-family: Montserrat;
@@ -98,11 +98,12 @@ letter-spacing: 0.2px;
 color: #FFFFFF;
 }
 .buttom{
-    display: flex;
+display: flex;
 align-items: center;
 padding: 5px 15px;
 position: static;
 height: 48px;
+width: 120px;
 left: 195px;
 top: 0px;
 border: 1px solid #FFFFFF;;
@@ -115,4 +116,21 @@ margin: 10px 0px;
 }
 .group{
     display: flex;
+}
+.feature{
+position: absolute;
+height: 474px;
+left: 0px;
+right: 0px;
+top: 851px;
+background: #FAFAFA;
+}
+.conteiner{
+ display: flex;
+align-items: center;
+padding: 80px 0px;
+width: 1050px;
+height: 450px;
+left: calc(50% - 1050px/2);
+top: 0px;
 }
