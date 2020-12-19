@@ -2,14 +2,10 @@
     box-sizing: border-box;
 }
 body{
-    background:url(./welcome-to-our-beautiful.jpg);
-    width: 
-    1440px;
-    height:
-    793px;
+    background:url(./welcome-to-our-beautiful.jpg)
 }
-.id{
-    display: block;
+div{
+    display: flex;
     color: white;
     text-decoration: none;
     padding-top: 2px;
@@ -27,15 +23,23 @@ line-height: 32px;
 ul{
     margin-left: 40%;
     display: flex;
-    margin-right: 6px;
+    padding: 4px;
     font-weight: 700;
-    line-height: 36.6px;
 }
 li{
     text-decoration: none;
     list-style-type:none ;
-    padding-left:10px;
-    padding: 10px;
-    margin-left: 5px;
+    padding-left:5px;
+    padding: 15px;
+}
+a{
+    color: white;
+}
+nav{
+    display: block;
+    width: 1322px;
+height: 104px;
+left: calc(50% - 1322px/2);
+top: 0px;
 
 }
