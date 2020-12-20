@@ -217,5 +217,29 @@ flex: none;
 order: 2;
 flex-grow: 0;
 margin: 0px 20px;
-padding: 40px;
+}
+.bottom{
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px 30px;
+
+position: static;
+width: 124px;
+height: 48px;
+left: 40px;
+top: 207px;
+
+/* secondary-color-1 */
+
+border: 1px solid #0D5C63;
+box-sizing: border-box;
+border-radius: 37px;
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 3;
+flex-grow: 0;
+margin: 0px 20px;
 }
