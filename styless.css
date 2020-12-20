@@ -2,7 +2,8 @@
     box-sizing: border-box;
 }
 body{
-    background:url(./photo-1543872084-c7bd3822856f.jpg)
+    background-image: url(./photo-1543872084-c7bd3822856f.jpg);
+
 }
 div{
     display: flex;
@@ -12,6 +13,7 @@ div{
     margin: 0;
     padding-left: 250px;
 }
+
 h3{
 font-family: 'Montserrat', sans-serif;
 font-style: normal;
@@ -117,65 +119,42 @@ margin: 10px 0px;
 .group{
     display: flex;
 }
-.feature{
-position: absolute;
-height: 474px;
+section{
+height: 890px;
 left: 0px;
 right: 0px;
-top: 851px;
+top: 1325px;
+
+background: #FAFAFA;
 
 }
-.conteiner{
- display: flex;
-align-items: center;
-padding: 80px 0px;
-width: 1050px;
-height: 450px;
-left: calc(50% - 1050px/2);
+h2{
+    position: static;
+width: 252px;
+height: 57px;
+left: 129.5px;
 top: 0px;
-}
-h5{
-    position: static;
-width: 178px;
-height: 24px;
-left: 40px;
-top: 103px;
 
-font-family: Montserrat;
-font-style: normal;
-font-weight: normal;
-font-size: 16px;
-line-height: 24px;
-letter-spacing: 0.1px;
-color: #FFFFFF;
-flex: none;
-order: 1;
-flex-grow: 0;
-margin: 0px 20px;
-}
- .conteiner img{
-left: 0.71%;
-right: 0.71%;
-top: 0.19%;
-bottom: 0.19%;
-
-}
-p{
-    position: static;
-width: 148px;
-height: 40px;
-left: 40px;
-top: 147px;
+/* h2 */
 
 font-family: Montserrat;
 font-style: normal;
 font-weight: bold;
-font-size: 14px;
-line-height: 20px;
+font-size: 40px;
+line-height: 57px;
+/* identical to box height, or 142% */
+
+text-align: center;
 letter-spacing: 0.2px;
-color: #737373;
+
+/* text-color */
+
+color: #252B42;
+
+/* Inside Auto Layout */
+
 flex: none;
-order: 2;
+order: 0;
 flex-grow: 0;
-margin: 0px 20px;
+margin: 0px 15px;
 }
