@@ -186,8 +186,6 @@ h5{
 position: static;
 width: 150px;
 height: 24px;
-top: 103px;
-
 font-family: Montserrat;
 font-style: normal;
 font-weight: normal;
@@ -199,4 +197,25 @@ flex: none;
 order: 1;
 flex-grow: 0;
 margin: 0px 20px;
+margin-top: -110px;
+}
+.p{
+    position: static;
+width: 148px;
+height: 40px;
+left: 40px;
+top: 147px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 20px;
+letter-spacing: 0.2px;
+color: #737373;
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 0px 20px;
+padding: 40px;
 }
