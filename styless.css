@@ -149,7 +149,7 @@ top: 827px;
     margin-right: 40px;
 }
 .child-3{
-    background: white;
+    background:black;
     border:solid 1px white;
     width: 210px;
     padding-left: 15px;
@@ -208,5 +208,11 @@ line-height: 20px;
 letter-spacing: 0.2px;
 color: #737373;
 margin: -3px 15px;
-
+}
+.h-4{
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.1px;
+    color: white;
+    margin: 0px 15x;
 }
