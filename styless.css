@@ -201,3 +201,12 @@ margin: 0px 15px;
     color: #252B42;
     margin: 18px;
 }
+.p-1{
+    font-weight: bold;
+font-size: 14px;
+line-height: 20px;
+letter-spacing: 0.2px;
+color: #737373;
+margin: -3px 15px;
+
+}
