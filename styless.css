@@ -214,5 +214,25 @@ margin: -3px 15px;
     line-height: 24px;
     letter-spacing: 0.1px;
     color: white;
-    margin: 0px 15x;
+    margin: 0px 15px;
+}
+.bottom-1{
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px 30px;
+width: 110px;
+height: 48px;
+background: #FFFFFF;
+color: #FF7B47; ;
+border-radius: 37px;
+margin: 15px 20px;
+}
+.p-4{
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    color: white;
+    margin: 12px 15px;
 }
