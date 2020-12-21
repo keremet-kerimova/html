@@ -17,23 +17,14 @@ header{
     width: 100%;
 }
 .li img{
-    margin-top: 45px;
     margin-right: 1350px;
-    margin-left: 60px;
+    margin-left: 400px;
     margin-bottom: 734px;
-
-}
-h3{
-font-family: 'Montserrat', sans-serif;
-font-style: normal;
-font-weight: bold;
-font-size: 24px;
-line-height: 32px;
 }
 ul{
-    margin-left: 40%;
+    margin-left: 80%;
     display: flex;
-    padding: 4px;
+    padding: 1px;
     font-weight: 700;
 }
 li{
@@ -44,14 +35,6 @@ li{
 }
 a{
     color: white;
-}
-nav{
-    display: block;
-    width: 1322px;
-height: 104px;
-left: calc(50% - 1322px/2);
-top: 0px;
-
 }
 .li{
     padding-top: 35px;
