@@ -7,7 +7,7 @@
     background-image: url(./img/background.png);
     background-repeat: no-repeat;
     background-size: 100%;
-    height: 90vh;
+    height: 110vh;
 }
 ul {
     display: flex;
@@ -30,6 +30,7 @@ letter-spacing: 0.1px;
     color: white;
 }
 li a {  color: white;
+    text-decoration: none;
 }
 h1{
 font-size: 58px;
@@ -258,7 +259,7 @@ margin: 15px 20px;
         margin: 10px 15px;  
     }
     .img-5{
-        padding-left: 120px;
+        padding-left: 125px;
         padding-top: 100px;
     }
     .h2-5{
@@ -267,7 +268,8 @@ margin: 15px 20px;
     line-height: 57px;
     letter-spacing: 0.2px;
     color: #252B42;
-    margin: 0px 110px;
+    margin: 0px 92px;
+    width: 300px;
     }
     .header-5{
         display: flex;
@@ -281,7 +283,7 @@ margin: 15px 20px;
     line-height: 20px;
     letter-spacing: 0.2px;
     color: #737373;
-    margin: 0px 110px;
+    margin: 0px 92px;
     }
     .div-5{
     height: 300px;
@@ -296,14 +298,14 @@ margin: 15px 20px;
     color: #252B42;
     margin: -75px 0px;
     padding-left: 75px;
-    margin-left: 55px;
+    margin-left: 45px;
     }
     .d-5{
         display: flex;
     flex-direction: column;
     align-items: flex-start;
     width: 383px;
-    margin: 0px 30px;
+    margin: 0px 10px;
     }
     .h6-5{
     width: 222px;
@@ -311,10 +313,10 @@ margin: 15px 20px;
     line-height: 24px;
     letter-spacing: 0.2px;
     color: #737373;
-    margin: 75px 128px;
+    margin: 75px 120px;
     }
     .im-6{
-        margin: 40px 80px;
+        margin: 40px 60px;
     }
     .h1-6{
     font-size: 16px;
@@ -322,8 +324,8 @@ margin: 15px 20px;
     letter-spacing: 0.1px;
     color: #252B42;
     margin: -75px 0px;
-    padding-left: 75px;
-    margin-left: 55px;
+    padding-left: 27px;
+    margin-left: 75px;
     }
     .d-6{
         display: flex;
@@ -338,7 +340,7 @@ margin: 15px 20px;
     line-height: 24px;
     letter-spacing: 0.2px;
     color: #737373;
-    margin: 75px 128px;
+    margin: 75px 101px;
     }
     .div-7{
         display: flex;
@@ -371,8 +373,8 @@ margin: 15px 20px;
     .div2-7{
         flex-direction: column;
         align-items: flex-start;
-        padding: 60px 40px;
-        width: 400px;
+        padding: 60px 50px;
+        width: 420px;
         height: 300px;
         background: #FFFFFF;
         margin-left: 220px;
@@ -409,8 +411,8 @@ margin: 15px 20px;
     .div3-7{
         flex-direction: column;
         align-items: flex-start;
-        padding: 60px 40px;
-        width: 400px;
+        padding: 60px 50px;
+        width: 420px;
         height: 300px;
         background: #FFFFFF;
         margin-left: 720px;
@@ -419,7 +421,7 @@ margin: 15px 20px;
     .div-8{
         width: 1340px;
           background: #252B42;
-margin-top: 100px;
+         margin-top: 100px;
           height: 500px;
            background: #252B42;
        }
@@ -451,15 +453,66 @@ margin-top: 100px;
        flex-direction: column;
        align-items: center;
        width: 416px;
-       margin-top: 90px;
+       margin-top: 190px;
        
        }
        .img-8{
            padding: 0px 0px;
            margin-left: 1350px;
-           margin-top: -360px;
+           margin-top: -450px;
        }
-    
+.footer{
+background: #FAFAFA;
+}
+.div-9{
+width: 238px;
+height: 146px;
+margin: 30px 0px;
+padding-left: 250px;
+margin-top: -60px;
+}
+.h3-9{
+width: 154px;
+font-size: 24px;
+line-height: 32px;
+letter-spacing: 0.1px;
+color: #252B42;
+margin: 0px 25px;
+padding-top: 100px;
+}
+.p-10{
+width: 213px;
+font-size: 14px;
+line-height: 20px;
+letter-spacing: 0.2px;
+color: #737373;
+margin: 0px 25px;
+padding-top: 20px;
+}
+.header-10{
+width: 156px;
+padding: 30px 0px;
+margin: 0px 25px;
+}
+.img-10{    padding-left: 10px;}
+.img-11{    padding-left: 10px;}
+.div-11{
+    height: 146px;
+    margin: 0px 250px;
+    padding-left: 250px;
+    margin-top: -60px
+}
+.h3-11{
+font-weight: bold;
+font-size: 24px;
+line-height: 32px;
+letter-spacing: 0.1px;
+color: #252B42;
+}
+.p-11{
+    margin-top: -75px;
+}
+
     @media screen and (max-width:700){
 
     }
