@@ -17,45 +17,26 @@ padding: 80px 0px;
 font-size: 40px;
 line-height: 57px;
 letter-spacing: 0.2px;
-
-/* light-text-color */
-
 color: #FFFFFF;
-
-/* Inside Auto Layout */
-
-flex: none;
-order: 0;
-flex-grow: 0;
 margin: 0px 15px;
 }
 .p-8{
-    
-position: static;
-width: 456px;
-height: 100px;
-left: 0px;
-top: 179px;
-
-/* paragraph */
-
-font-family: Montserrat;
-font-style: normal;
-font-weight: 500;
+width: 356px;
 font-size: 14px;
 line-height: 20px;
-/* or 143% */
-
 letter-spacing: 0.2px;
-
-/* light-text-color */
-
 color: #FFFFFF;
-
-/* Inside Auto Layout */
-
-flex: none;
-order: 1;
-flex-grow: 0;
 margin: 0px 15px;
+}
+.header-8{
+    display: flex;
+flex-direction: column;
+align-items: center;
+width: 416px;
+
+}
+.img-8{
+    padding: 0px 0px;
+    margin-left: 1350px;
+    margin-top: -270px;
 }
