@@ -463,12 +463,13 @@ margin: 15px 20px;
        }
 .footer{
 background: #FAFAFA;
+height: 400px;
 }
 .div-9{
 width: 238px;
 height: 146px;
 margin: 30px 0px;
-padding-left: 250px;
+padding-left: 180px;
 margin-top: -60px;
 }
 .h3-9{
@@ -500,7 +501,7 @@ margin: 0px 25px;
     height: 146px;
     margin: 0px 250px;
     padding-left: 250px;
-    margin-top: -60px
+    margin-top: -75px
 }
 .h3-11{
 font-weight: bold;
@@ -510,9 +511,48 @@ letter-spacing: 0.1px;
 color: #252B42;
 }
 .p-11{
-    margin-top: -75px;
+    margin-top: 8px;
+    padding: 10px 0px;
+    color: #737373;
+    font-size: 14px;
+letter-spacing: 0.2px;
+line-height: 24px
 }
+.p-12{color: #737373;
+    font-size: 14px;
+letter-spacing: 0.2px;
+line-height: 24px}
+.p-14{color: #737373;
+    font-size: 14px;
+letter-spacing: 0.2px;
+line-height: 24px}
+.p-13{
+    padding: 10px 0px;
+    line-height: 24px;
+    color: #737373;
+    font-size: 14px;
+letter-spacing: 0.2px;
+line-height: 24px
+}
+.div-12{
+    height: 146px;
+    margin: 0px 450px;
+    padding-left: 250px;
+    margin-top: -145px
+}
+.div-13{
+    height: 146px;
+    margin: 0px 650px;
+    padding-left: 250px;
+    margin-top: -145px
+}
+.div-14{
+    height: 146px;
+    margin: 0px 850px;
+    padding-left: 250px;
+    margin-top: -145px
 
+}
     @media screen and (max-width:700){
 
     }
