@@ -719,36 +719,25 @@ color: #737373;
                 margin-top: 120px
             }
             .div-12{
-                height: 146px;
-                margin: 0px 350px;
-                padding-left: 250px;
-                margin-top: -145px
+                margin: 0px 0px;
+                padding-left: 40px;
+                margin-top: 45px
             }
             .div-13{
-                height: 146px;
-                margin: 0px 550px;
-                padding-left: 250px;
-                margin-top: -145px
+                margin: 0px 0px;
+                padding-left: 40px;
+                margin-top: 55px
             }
             .div-14{
-                height: 146px;
-                margin: 0px 750px;
-                padding-left: 250px;
-                margin-top: -145px
+                margin: 0px 0px;
+                padding-left: 40px;
+                margin-top: 45px
             }
             .div-15{
-            display: flex;
+           justify-content: center;
             flex-direction: column;
-            align-items: center;
-            padding: 0px;
-            margin: 200px 0px;
+            margin-right: 900px;
+            margin-top: 80px;
             }
-            .h6-15{
-            font-size: 14px;
-            line-height: 24px;
-            letter-spacing: 0.2px;
-            color: #737373;
-            }
-        
         
 }
