@@ -694,16 +694,22 @@ color: #737373;
             justify-content: center;
             flex-direction: column;
             background-color:#252B42 ;
-             height: 500px;
+             height: 900px;
             }
             .div1-8{
          justify-content: center;
             flex-direction: column;
                 margin-left: 10px; 
            }
+           .header-8{
+         justify-content: center;
+        flex-direction: column;
+        width: 416px;
+        margin-top: 450px;
+        }
            .img-8{
                margin-left: 50px;
-    
+               padding-top:-100px;  
            }
             .div-9{
             padding-left: 10px;
@@ -730,5 +736,9 @@ color: #737373;
             margin-right: 900px;
             margin-top: 80px;
             }
+            .footer{
+                background: #FAFAFA;
+                height: 1000px;
+                }
         
 }
