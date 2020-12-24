@@ -499,7 +499,7 @@ margin: 0px 25px;
 .div-11{
     height: 146px;
     margin: 0px 160px;
-    padding-left: 250px;
+    padding-left: 300px;
     margin-top: -75px
 }
 .h3-11{
@@ -539,19 +539,13 @@ width: 100px;
 .div-12{
     height: 146px;
     margin: 0px 350px;
-    padding-left: 250px;
+    padding-left: 350px;
     margin-top: -145px
 }
 .div-13{
     height: 146px;
     margin: 0px 550px;
-    padding-left: 250px;
-    margin-top: -145px
-}
-.div-14{
-    height: 146px;
-    margin: 0px 750px;
-    padding-left: 250px;
+    padding-left: 450px;
     margin-top: -145px
 }
 .div-15{
@@ -727,11 +721,6 @@ color: #737373;
                 margin: 0px 0px;
                 padding-left: 40px;
                 margin-top: 55px
-            }
-            .div-14{
-                margin: 0px 0px;
-                padding-left: 40px;
-                margin-top: 45px
             }
             .div-15{
            justify-content: center;
