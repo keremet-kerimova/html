@@ -655,22 +655,28 @@ color: #737373;
        justify-content: center;
        flex-direction: column;
         height: 442px;
-        margin: 0px 100px;
+       margin-left: 100px;
         margin-top: 100px;
+        background-color: #FAFAFA;
         }
         .div-5{
-        height: 300px;
-        margin-right: 10px;
+        height: 200px;
+        margin-left: 30px;
+        background-color: #FAFAFA;
         }
         .d-5{
         justify-content: center;
         flex-direction: column;
-        width: 400px;
+        width: 550px;
+        background-color: #FAFAFA;
+        margin-left: 20px;
         }
         .d-6{
         justify-content: center;
         flex-direction: column;
-        width: 383px;
+        width: 553px;
+        background-color: #FAFAFA;
+        margin-left: 40px;
     
         }
         .div-7{
