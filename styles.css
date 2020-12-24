@@ -567,7 +567,7 @@ line-height: 24px;
 letter-spacing: 0.2px;
 color: #737373;
 }
- @media screen and (max-width:900px){
+ @media screen and (max-width:700px){
     .hdr {
         background-image: url(./img/background.png);
         background-size: 500%;
@@ -615,6 +615,7 @@ color: #737373;
         justify-content: center;
         padding-left: 110px;
        margin-top:-800px; 
+       background-color: white;
     }
     .img{
     padding: 55px;
@@ -622,22 +623,27 @@ color: #737373;
     .child{
         padding-left: 15px;
         width: 210px;
+        margin-top:-1200px ;
+        background-color:gainsboro;
     }
     .child-1{
         width: 210px;
         padding-left: 15px;
+        margin-top: 50px;
+        background-color:gainsboro;
     }
     .child-2{
         width: 210px;
         padding-left: 15px;
-        margin-right: 40px;
+        margin-top: 50px;
+        background-color:gainsboro;
     }
     .child-3{
         background:black;
         border:solid 1px white;
         width: 210px;
         padding-left: 15px;
-        margin-right: 40px;
+        margin-top: 50px;
     }
 
 }
