@@ -694,11 +694,11 @@ color: #737373;
             margin-left: 30px;
             margin-top: 30px;
         }
-        
         .div-8{
             justify-content: center;
             flex-direction: column;
-            margin-top: 80px;
+            background-color:#252B42 ;
+             height: 500px;
             }
             .div1-8{
          justify-content: center;
@@ -707,8 +707,48 @@ color: #737373;
            }
            .img-8{
                margin-left: 50px;
-               margin-top: -170px;
+    
            }
+            .div-9{
+            padding-left: 10px;
+            margin-top: -60px;
+            }
+            .div-11{
+                margin: 0px 0px;
+                padding-left:40px;
+                margin-top: 120px
+            }
+            .div-12{
+                height: 146px;
+                margin: 0px 350px;
+                padding-left: 250px;
+                margin-top: -145px
+            }
+            .div-13{
+                height: 146px;
+                margin: 0px 550px;
+                padding-left: 250px;
+                margin-top: -145px
+            }
+            .div-14{
+                height: 146px;
+                margin: 0px 750px;
+                padding-left: 250px;
+                margin-top: -145px
+            }
+            .div-15{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 0px;
+            margin: 200px 0px;
+            }
+            .h6-15{
+            font-size: 14px;
+            line-height: 24px;
+            letter-spacing: 0.2px;
+            color: #737373;
+            }
         
         
 }
