@@ -226,6 +226,7 @@ color: #737373;
 margin: -3px 15px;
 }
 .h-4{
+    font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.1px;
@@ -245,6 +246,7 @@ border-radius: 37px;
 margin: 28px 20px;
 }
 .p-4{
+    font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     font-size: 14px;
     line-height: 20px;
@@ -259,6 +261,7 @@ margin: 28px 20px;
     margin-top: 100px;
     }
     .h-5{
+        font-family: 'Montserrat', sans-serif;
     font-size: 50px;
     line-height: 57px;
     text-align: center;
@@ -269,6 +272,7 @@ margin: 28px 20px;
     padding-bottom: 20px;
     }
     .p-5{
+        font-family: 'Montserrat', sans-serif;
         font-size: 16px;
         line-height: 20px;
         text-align: center;
@@ -281,6 +285,7 @@ margin: 28px 20px;
         padding-top: 100px;
     }
     .h2-5{
+        font-family: 'Montserrat', sans-serif;
     height: 130px;
     font-size: 40px;
     line-height: 57px;
@@ -297,6 +302,7 @@ margin: 28px 20px;
     margin-top: 60px;
     }
     .pa-5{
+        font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     line-height: 20px;
     letter-spacing: 0.2px;
@@ -310,6 +316,7 @@ margin: 28px 20px;
         margin: 40px 80px;
     }
     .h1-5{
+        font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.1px;
@@ -326,6 +333,7 @@ margin: 28px 20px;
     margin: 0px 10px;
     }
     .h6-5{
+        font-family: 'Montserrat', sans-serif;
     width: 222px;
     font-size: 14px;
     line-height: 24px;
@@ -337,6 +345,7 @@ margin: 28px 20px;
         margin: 40px 60px;
     }
     .h1-6{
+        font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.1px;
@@ -353,6 +362,7 @@ margin: 28px 20px;
     margin: -70px 30px;
     }
     .h6-6{
+        font-family: 'Montserrat', sans-serif;
     width: 222px;
     font-size: 14px;
     line-height: 24px;
@@ -374,6 +384,7 @@ margin: 28px 20px;
     margin: 0px 50px;
     }
     .h2-7{
+        font-family: 'Montserrat', sans-serif;
     font-size: 40px;
     line-height: 57px;
     letter-spacing: 0.2px;
@@ -381,6 +392,7 @@ margin: 28px 20px;
     margin: 0px 10px;
     }
     .p-7{
+        font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     line-height: 20px;
     text-align: center;
@@ -399,6 +411,7 @@ margin: 28px 20px;
         margin-top: 90px;
     }
     .h3-7{
+        font-family: 'Montserrat', sans-serif;
         font-size: 24px;
         line-height: 32px;
         letter-spacing: 0.1px;
@@ -407,6 +420,7 @@ margin: 28px 20px;
         margin-bottom: 25px;
     }
     .h6-7{
+        font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     line-height: 24px;
     letter-spacing: 0.2px;
@@ -419,6 +433,7 @@ margin: 28px 20px;
     margin: 40px 0px;
     }
     .p-9{
+        font-family: 'Montserrat', sans-serif;
         width: 306px;
     font-size: 14px;
     line-height: 20px;
@@ -452,6 +467,7 @@ margin: 28px 20px;
     
        }
        .h2-8{
+        font-family: 'Montserrat', sans-serif;
        font-size: 40px;
        line-height: 57px;
        letter-spacing: 0.2px;
@@ -459,6 +475,7 @@ margin: 28px 20px;
        margin: 0px 15px;
        }
        .p-8{
+        font-family: 'Montserrat', sans-serif;
        width: 356px;
        font-size: 14px;
        line-height: 20px;
@@ -491,6 +508,7 @@ padding-left: 250px;
 margin-top: -60px;
 }
 .h3-9{
+    font-family: 'Montserrat', sans-serif;
 width: 154px;
 font-size: 24px;
 line-height: 32px;
@@ -500,6 +518,7 @@ margin: 0px 25px;
 padding-top: 100px;
 }
 .p-10{
+    font-family: 'Montserrat', sans-serif;
 width: 213px;
 font-size: 14px;
 line-height: 20px;
@@ -522,6 +541,7 @@ margin: 0px 25px;
     margin-top: -75px
 }
 .h3-11{
+    font-family: 'Montserrat', sans-serif;
 font-weight: bold;
 font-size: 24px;
 line-height: 32px;
@@ -530,6 +550,7 @@ color: #252B42;
 width: 150px;
 }
 .p-11{
+    font-family: 'Montserrat', sans-serif;
     margin-top: 8px;
     padding: 8px 0px;
     color: #737373;
@@ -538,17 +559,22 @@ letter-spacing: 0.2px;
 line-height: 24px;
 width: 90px;
 }
-.p-12{color: #737373;
+.p-12{
+    font-family: 'Montserrat', sans-serif;
+    color: #737373;
     font-size: 14px;
 letter-spacing: 0.2px;
 line-height: 24px;
 width: 100px;
 }
-.p-14{color: #737373;
+.p-14{
+    font-family: 'Montserrat', sans-serif;
+    color: #737373;
     font-size: 14px;
 letter-spacing: 0.2px;
 line-height: 24px}
-.p-13{
+.p-13{ 
+    font-family: 'Montserrat', sans-serif;
     padding: 10px 0px;
     line-height: 24px;
     color: #737373;
@@ -577,6 +603,7 @@ padding: 0px;
 margin: 200px 0px;
 }
 .h6-15{
+    font-family: 'Montserrat', sans-serif;
 font-size: 14px;
 line-height: 24px;
 letter-spacing: 0.2px;
