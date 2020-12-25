@@ -28,8 +28,13 @@ letter-spacing: 0.1px;
     margin-top: 40px;
     margin-left:90px;
     color: white;
+    font-family: 'Montserrat', sans-serif;
 }
 li a {  color: white;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+.droup{
     text-decoration: none;
 }
 h1{
@@ -38,6 +43,8 @@ line-height: 80px;
 text-align: center;
 letter-spacing: 0.2px;
 color: #FFFFFF;
+font-family: Montserrat;
+font-weight: 800;
 }
 .head {
     display: flex;
@@ -56,21 +63,24 @@ line-height: 30px;
 text-align: center;
 letter-spacing: 0.2px;
 color: #FFFFFF;
-order: 1;
+font-family: 'Montserrat', sans-serif;
 }
 
 .btn{
 background: #FF7B47;
 border-radius: 37px;
 width: 150px;
-margin: 10px 5px;
+margin: 5px 5px;
 }
 .text{
-font-family: Montserrat;
+font-family: 'Montserrat', sans-serif;
 font-weight: bold;
 font-size: 14px;
 letter-spacing: 0.2px;
 color: #FFFFFF;
+padding-top: 15px;
+padding-left: 25px;
+text-decoration: none;
 }
 .buttom{
 height: 48px;
@@ -78,7 +88,7 @@ width: 120px;
 border: 1px solid #FFFFFF;;
 background: transparent;
 border-radius: 37px;
-margin: 10px 0px;
+margin: 5px 5px;
 }
 .group{
     display: flex;
@@ -91,6 +101,7 @@ left: 0px;
 background: #FAFAFA;
 }
 h5{
+font-family: 'Montserrat', sans-serif;
 font-size: 16px;
 line-height: 24px;
 letter-spacing: 0.1px;
@@ -99,6 +110,7 @@ margin: 0px 20px;
 margin-top: 10px;
 }
 .p{
+    font-family: 'Montserrat', sans-serif;
 font-weight: bold;
 font-size: 14px;
 line-height: 20px;
@@ -107,6 +119,8 @@ color: #737373;
 margin: 10px 20px;
 }
 .bottom{
+    color: #0D5C63;
+    font-family: 'Montserrat', sans-serif;
     display: flex;
 align-items: center;
 padding: 10px 30px;
@@ -161,8 +175,10 @@ line-height: 24px;
 letter-spacing: 0.1px;
 color: #252B42;
 margin: 8px 15px;
+font-family: 'Montserrat', sans-serif;
 }
 .p{
+    font-family: 'Montserrat', sans-serif;
 font-weight: bold;
 font-size: 14px;
 line-height: 20px;
@@ -190,8 +206,10 @@ line-height: 24px;
 letter-spacing: 0.1px;
 color: #252B42;
 margin: 0px 15px;
+font-family: 'Montserrat', sans-serif;
 }
 .h-3{
+    font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.1px;
@@ -199,6 +217,7 @@ margin: 0px 15px;
     margin: 18px;
 }
 .p-1{
+    font-family: 'Montserrat', sans-serif;
     font-weight: bold;
 font-size: 14px;
 line-height: 20px;
@@ -223,7 +242,7 @@ height: 48px;
 background: #FFFFFF;
 color: #FF7B47; ;
 border-radius: 37px;
-margin: 15px 20px;
+margin: 28px 20px;
 }
 .p-4{
     font-weight: bold;
