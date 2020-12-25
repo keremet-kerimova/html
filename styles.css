@@ -618,32 +618,31 @@ color: #737373;
     }
     .child{
         padding-left: 15px;
-        width: 210px;
         margin-top:-1200px ;
         background-color:gainsboro;
     }
     .child-1{
-        width: 210px;
         padding-left: 15px;
         margin-top: 50px;
         background-color:gainsboro;
     }
     .child-2{
-        width: 210px;
         padding-left: 15px;
         margin-top: 50px;
         background-color:gainsboro;
     }
     .child-3{
-        width: 210px;
         padding-left: 15px;
         margin-top: 50px;
     }
         .img-5{
            flex-direction: column;
             justify-content: center;
-            margin-top: 40px;
-        width: 250%;    
+            width: 200%;
+            margin-right: 120px;
+        }
+        .div-8 {
+            width: 490px;
         }
         .header-5{
        justify-content: center;
@@ -704,7 +703,6 @@ color: #737373;
            .header-8{
          justify-content: center;
         flex-direction: column;
-        width: 416px;
         margin-top: 450px;
         }
            .img-8{
@@ -730,11 +728,12 @@ color: #737373;
                 padding-left: 40px;
                 margin-top: 55px
             }
-            .div-15{
-           justify-content: center;
-            flex-direction: column;
-            margin-right: 900px;
-            margin-top: 80px;
+            .div-15 {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                padding: 0px;
+                margin: 200px 0px;
             }
             .footer{
                 background: #FAFAFA;
