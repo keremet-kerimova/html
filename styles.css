@@ -965,8 +965,30 @@ color: #737373;
          flex-direction: column;
         
      } 
-     .div-8 {
-        width: 1082px;
+     .div3-7 {
+        margin-left: 40px;
+        margin-top: 99px;
+    }
+    .div2-7 {
+        margin-left: 40px;
+    }
+    .div-7 {
+        align-items: center;
+    }
+    .div-8 {
+        width: 782px;
+    }
+    .div1-8 {
+        margin-left: 100px;
+        margin-bottom: 100px;
+        background: #252B42;
+    }
+    .img-8 {
+        margin-left: 250px;
+        margin-bottom: 150px;
+        padding-top: 50px;
+        padding-top: 300px;
+        background: #252B42;
     }
     .div-11{
         padding-left: 100px;
