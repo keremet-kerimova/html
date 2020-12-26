@@ -979,6 +979,7 @@ color: #737373;
     }
     .div-8 {
         width: 782px;
+        height: 1000px;
     }
     .div1-8 {
         margin-left: 100px;
@@ -988,9 +989,7 @@ color: #737373;
     .img-8 {
         margin-left: 250px;
         margin-bottom: 150px;
-        padding-top: 50px;
         padding-top: 300px;
-        background: #252B42;
     }
     .div-11{
         padding-left: 100px;
@@ -1001,10 +1000,7 @@ color: #737373;
     .div-13{
         padding-left: 250px;
     }
-    .img-8{
-        margin-left: 1230px;
-        margin-top: -450px;
-    }
+
      .d-6{
          width: 553px;
          margin-left: 375px; 
@@ -1017,9 +1013,6 @@ color: #737373;
          .group{
             margin-left: 0px;
          }
-         .parent-2{
-            height: 900px;
-             }
     .li{
         position: relative;
     left: 5%;
