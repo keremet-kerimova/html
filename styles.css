@@ -547,7 +547,7 @@ font-size: 24px;
 line-height: 32px;
 letter-spacing: 0.1px;
 color: #252B42;
-width: 150px;
+width: 170px;
 }
 .p-11{
     font-family: 'Montserrat', sans-serif;
@@ -557,7 +557,7 @@ width: 150px;
     font-size: 14px;
 letter-spacing: 0.2px;
 line-height: 24px;
-width: 90px;
+width: 120px;
 }
 .p-12{
     font-family: 'Montserrat', sans-serif;
@@ -609,9 +609,12 @@ line-height: 24px;
 letter-spacing: 0.2px;
 color: #737373;
 }
-@media screen and (max-width:1200px){
+@media screen and (max-width:1230px){
     .hdr{
-        height:1175vh;
+       height: 900px;
+    }
+    .new{
+        height: 500px;
     }
     .btn{
         background: #FF7B47;
@@ -621,7 +624,7 @@ color: #737373;
         margin-left: 390px;
        padding: 15px 19px;
         }
-        
+
         .buttom{
         width: 130px;
         margin: 10px 0px;
@@ -743,7 +746,10 @@ color: #737373;
             .footer{
                 background: #FAFAFA;
                 height: 500px;
-                }
+     
+            }
+}
+            /*
  @media screen and (max-width:800px){
     .hdr {
         background-image: url(./img/background.png);
@@ -1101,4 +1107,4 @@ color: #737373;
                     background: #FAFAFA;
                     height: 1000px;
                     }
-       } 
+                }
