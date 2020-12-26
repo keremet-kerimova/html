@@ -949,8 +949,10 @@ color: #737373;
     }
     .div-5{
          height: 1100px;
-         width: 750px;
-        
+         width: 750px; 
+    }
+    .parent-2 {
+        height: 1000px;
     }
     .d-5{
          width: 400px;
@@ -1018,10 +1020,6 @@ color: #737373;
          .parent-2{
             height: 900px;
              }
-        .img-5{
-            padding-left: 205px;
-        }
-        
     .li{
         position: relative;
     left: 5%;
