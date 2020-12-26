@@ -879,9 +879,9 @@ color: #737373;
         .div-8 {
             width: 981px;
         }
-     .parent{
-        margin-left: 0px;
-     }
+        .parent {
+            margin-left: -70px;
+        }
     .div-9{
       padding-left: 25px; 
     }
