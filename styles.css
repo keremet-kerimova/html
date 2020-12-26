@@ -504,7 +504,7 @@ height: 600px;
 width: 238px;
 height: 146px;
 margin: 30px 0px;
-padding-left: 250px;
+padding-left: 200px;
 margin-top: -60px;
 }
 .h3-9{
@@ -537,7 +537,7 @@ margin: 0px 25px;
 .div-11{
     height: 146px;
     margin: 0px 250px;
-    padding-left: 300px;
+    padding-left: 250px;
     margin-top: -75px
 }
 .h3-11{
@@ -616,12 +616,30 @@ color: #737373;
     .new{
         height: 500px;
     }
-    .btn{
-        background: #FF7B47;
-        border-radius: 37px;
+    .div2-7{
+        margin-left: 120px;
+    }
+    .div3-7{
+        margin-left: 600px;
+        margin-top: -300px
+    }
+    .div-8 {
+        width: 1215px;
+    }
+    .div1-8{
+        margin-left: 75px; 
+       }
+    .d-6{
+        width: 553px;  
+      }
+    .footer{
+        background: #FAFAFA;
+        height: 450px;
+    }
+.btn{
         width: 150px;
         margin: -100px 0px;
-        margin-left: 390px;
+        margin-left: 400px;
        padding: 15px 19px;
         }
 
@@ -637,119 +655,23 @@ color: #737373;
             margin-top: 100px;
             margin-left: 50px;
         }
+        .parent-2{
+            height: 1200px;
+            background: #FAFAFA;
+            background-image: none;
+            margin-top: 100px;
+            }
+        .header-5{
+            justify-content: center;
+             background-color: #FAFAFA;
+             }
     .parent{
         justify-content: center;
         padding-left: 110px;
-       margin-top:-6600px; 
+            
     }
-    .img{
-    padding: 55px;
-    }
-    .child{
-        background-color:gainsboro;
-    }
-    .child-1{
-        padding-left: 15px;
-        background-color:gainsboro;
-    }
-    .child-2{
-        padding-left: 15px;
-        background-color:gainsboro;
-    }
-    .child-3{
-        padding-left: 15px;
-    }
-        .img-5{
-           flex-direction: column;
-            justify-content: center;
-            width: 200%;
-            margin-right: 120px;
-        }
-        .div-8 {
-            width: 490px;
-        }
-        .header-5{
-       justify-content: center;
-        background-color: #FAFAFA;
-        }
-        .div-5{
-        height: 200px;
-        margin-left: 30px;
-        background-color: #FAFAFA;
-        }
-        .d-5{
-        justify-content: center;
-        flex-direction: column;
-        width: 550px;
-        background-color: #FAFAFA;
-        margin-left: 20px;
-        }
-        .d-6{
-        justify-content: center;
-        flex-direction: column;
-        width: 553px;
-        background-color: #FAFAFA;
-        margin-left: 40px;
-    
-        }
-        .div-7{
-            background-color: black;
-            height: 600px;
-        }
-    
-        .div2-7{
-            margin-left: 70px;
-        }
-    
-        .div3-7{
-            margin-left: 600px;
-            margin-top: -267px;
-        }
-        .div-8{
-            background-color:#252B42 ;
-             height: 1183px;
-            }
-            .div1-8{
-         justify-content: center;
-            flex-direction: column;
-                margin-left: 10px; 
-           }
-           .header-8{
-    padding-left: 750px;
-        margin-right: -450px;
-        }
-           .img-8{
-               margin-left: 50px;
-               padding-top:-100px;  
-           }
-            .div-9{
-            padding-left: 80px;
-            margin-top: -60px;
-            }
-            .div-11{
-                margin: 0px 50px;
-                margin-top: -75px
-            }
-            .div-12{
-                margin: 0px 600px;
-                padding-left: 40px;
-                margin-top: -145px
-            }
-            .div-13{
-                margin: 0px 800px;
-                padding-left: 40px;
-                margin-top: -148px
-            }
-            .div-15 {
-                margin: 150px 100px;
-            }
-            .footer{
-                background: #FAFAFA;
-                height: 500px;
-     
-            }
 }
-            /*
+
  @media screen and (max-width:800px){
     .hdr {
         background-image: url(./img/background.png);
@@ -931,6 +853,8 @@ color: #737373;
                 background: #FAFAFA;
                 height: 1000px;
                 }
+            }
+                /*
        @media screen and (max-width:750px) {
         .hdr {
             background-image: url(./img/background.png);
