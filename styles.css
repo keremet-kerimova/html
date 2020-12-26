@@ -952,6 +952,19 @@ color: #737373;
          width: 750px;
         
     }
+    .d-5{
+         width: 400px;
+        margin-left: 350px;
+         margin-top: -200px;
+    }
+    .d-6{
+        width: 553px;
+        margin-left: 375px; 
+      }
+     .div-7{
+         flex-direction: column;
+        
+     } 
      .div-8 {
         width: 1082px;
     }
@@ -969,7 +982,8 @@ color: #737373;
         margin-top: -450px;
     }
      .d-6{
-         width: 553px;  
+         width: 553px;
+         margin-left: 375px; 
        }
      .footer{
          background: #FAFAFA;
