@@ -610,16 +610,9 @@ letter-spacing: 0.2px;
 color: #737373;
 }
 @media screen and (max-width:1200px){
-    .hdr {
-        background-image: url(./img/background.png);
-        height: 2500vh;
+    .hdr{
+        height:1175vh;
     }
-    .parent-2{
-        height: 1200px;
-        background: #FAFAFA;
-        background-image: none;
-        margin-top: 100px;
-        }
     .btn{
         background: #FF7B47;
         border-radius: 37px;
@@ -641,42 +634,27 @@ color: #737373;
             margin-top: 100px;
             margin-left: 50px;
         }
-        .h3gh{
-            font-size: 25px;
-             margin-left:160px;
-            }
-    .head{
-        flex-direction: column;
-        justify-content: center;
-    }
     .parent{
-        flex-direction: column;
         justify-content: center;
         padding-left: 110px;
-       margin-top:-800px; 
-       background-color: white;
+       margin-top:-6600px; 
     }
     .img{
     padding: 55px;
     }
     .child{
-        padding-left: 15px;
-        margin-top:-1200px ;
         background-color:gainsboro;
     }
     .child-1{
         padding-left: 15px;
-        margin-top: 50px;
         background-color:gainsboro;
     }
     .child-2{
         padding-left: 15px;
-        margin-top: 50px;
         background-color:gainsboro;
     }
     .child-3{
         padding-left: 15px;
-        margin-top: 50px;
     }
         .img-5{
            flex-direction: column;
@@ -689,9 +667,6 @@ color: #737373;
         }
         .header-5{
        justify-content: center;
-       flex-direction: column;
-       margin-left: 100px;
-        margin-top: 100px;
         background-color: #FAFAFA;
         }
         .div-5{
@@ -715,29 +690,21 @@ color: #737373;
     
         }
         .div-7{
-            justify-content: center;
-            flex-direction: column;
             background-color: black;
-            height: 1500px;
+            height: 600px;
         }
     
         .div2-7{
-            justify-content: center;
-            flex-direction: column;
-            margin-left: 30px;
+            margin-left: 70px;
         }
     
         .div3-7{
-            flex-direction: column;
-            justify-content: center;
-            margin-left: 30px;
-            margin-top: 30px;
+            margin-left: 600px;
+            margin-top: -267px;
         }
         .div-8{
-            justify-content: center;
-            flex-direction: column;
             background-color:#252B42 ;
-             height: 900px;
+             height: 1183px;
             }
             .div1-8{
          justify-content: center;
@@ -745,43 +712,37 @@ color: #737373;
                 margin-left: 10px; 
            }
            .header-8{
-         justify-content: center;
-        flex-direction: column;
-        margin-top: 450px;
+    padding-left: 750px;
+        margin-right: -450px;
         }
            .img-8{
                margin-left: 50px;
                padding-top:-100px;  
            }
             .div-9{
-            padding-left: 10px;
+            padding-left: 80px;
             margin-top: -60px;
             }
             .div-11{
-                margin: 0px 0px;
-                padding-left:40px;
-                margin-top: 120px
+                margin: 0px 50px;
+                margin-top: -75px
             }
             .div-12{
-                margin: 0px 0px;
+                margin: 0px 600px;
                 padding-left: 40px;
-                margin-top: 45px
+                margin-top: -145px
             }
             .div-13{
-                margin: 0px 0px;
+                margin: 0px 800px;
                 padding-left: 40px;
-                margin-top: 55px
+                margin-top: -148px
             }
             .div-15 {
-                display: flex;
-                flex-direction: column;
-                align-items: center;
-                padding: 0px;
-                margin: 200px 0px;
+                margin: 150px 100px;
             }
             .footer{
                 background: #FAFAFA;
-                height: 1000px;
+                height: 500px;
                 }
  @media screen and (max-width:800px){
     .hdr {
