@@ -79,7 +79,7 @@ font-size: 14px;
 letter-spacing: 0.2px;
 color: #FFFFFF;
 padding-top: 15px;
-padding-left: 25px;
+padding-left: 21px;
 text-decoration: none;
 }
 .buttom{
@@ -672,189 +672,122 @@ color: #737373;
     }
 }
 
- @media screen and (max-width:800px){
-    .hdr {
-        background-image: url(./img/background.png);
-        background-size: 200%;
-        height: 500vh;
-    }
+ @media screen and (max-width:1200px){
+    .hdr{
+        height: 900px;
+     }
+     .new{
+         height: 500px;
+     }
+     .div2-7{
+         margin-left: 120px;
+     }
+     .div3-7{
+         margin-left: 600px;
+         margin-top: -300px
+     }
+     .div-8 {
+         width: 1215px;
+     }
+     .div1-8{
+         margin-left: 75px; 
+        }
+     .d-6{
+         width: 553px;  
+       }
+     .footer{
+         background: #FAFAFA;
+         height: 450px;
+     }
+ .btn{
+         width: 150px;
+         margin: -100px 0px;
+         margin-left: 400px;
+        padding: 15px 19px;
+         }
+ 
+         .buttom{
+         width: 130px;
+         margin: 10px 0px;
+         margin-left: 570px;
+         margin-top: 54px;
+         }
+         .group{
+             flex-direction: column;
+             justify-content: center;
+             margin-top: 100px;
+             margin-left: 50px;
+         }
+         .parent-2{
+             height: 1200px;
+             background: #FAFAFA;
+             background-image: none;
+             margin-top: 100px;
+             }
+         .header-5{
+             justify-content: center;
+              background-color: #FAFAFA;
+              }
+     .parent{
+         justify-content: center;
+         padding-left: 110px;
+             
+     }
     .li{
         position: relative;
     left: 5%;
     }
-    .parent-2{
-        height: 1200px;
-        background: #FAFAFA;
-        background-image: none;
-        margin-top: 100px;
-        }
-    .btn{
-        background: #FF7B47;
-        border-radius: 37px;
-        width: 220px;
-        margin: 10px 0px;
-        margin-left: 70px;
-       padding: 15px 10px;
-        }
-        
-        .buttom{
-        width: 220px;
-        margin: 10px 0px;
-        margin-left: 70px;
-        }
-        .group{
-            flex-direction: column;
-            justify-content: center;
-            margin-top: 100px;
-            margin-left: 50px;
-        }
-        .h3gh{
-            flex-direction: column;
-        justify-content: center;
-            font-size: 25px;
-            letter-spacing: 0.1px;
-                margin-top: 50px;
-                margin-left:160px;
-                color: white;
-            }
-    .head{
-        flex-direction: column;
-        justify-content: center;
+}
+@media screen and (max-width:1100px){
+    .hdr {
+        height: 1000px;
+        margin-bottom: -450px;
     }
-    .parent{
-        flex-direction: column;
-        justify-content: center;
-        padding-left: 110px;
-       margin-top:-800px; 
-       background-color: white;
+     .new{
+         height: 500px;
+     }
+     .div-8 {
+        width: 1082px;
     }
-    .img{
-    padding: 55px;
+    .div-11{
+        padding-left: 10px;
     }
-    .child{
-        padding-left: 15px;
-        margin-top:-1200px ;
-        background-color:gainsboro;
+    .div-12{
+        padding-left: 20px;
     }
-    .child-1{
-        padding-left: 15px;
-        margin-top: 50px;
-        background-color:gainsboro;
+    .img-8{
+        margin-left: 1230px;
+        margin-top: -450px;
     }
-    .child-2{
-        padding-left: 15px;
-        margin-top: 50px;
-        background-color:gainsboro;
-    }
-    .child-3{
-        padding-left: 15px;
-        margin-top: 50px;
-    }
+     .d-6{
+         width: 553px;  
+       }
+     .footer{
+         background: #FAFAFA;
+         height: 450px;
+     }
+
+         .group{
+            margin-left: 0px;
+         }
+         .parent-2{
+            height: 900px;
+             }
         .img-5{
-           flex-direction: column;
-            justify-content: center;
-            width: 200%;
-            margin-right: 120px;
+            padding-left: 205px;
         }
-        .div-8 {
-            width: 490px;
-        }
-        .header-5{
-       justify-content: center;
-       flex-direction: column;
-       margin-left: 100px;
-        margin-top: 100px;
-        background-color: #FAFAFA;
-        }
-        .div-5{
-        height: 200px;
-        margin-left: 30px;
-        background-color: #FAFAFA;
-        }
-        .d-5{
-        justify-content: center;
-        flex-direction: column;
-        width: 550px;
-        background-color: #FAFAFA;
-        margin-left: 20px;
-        }
-        .d-6{
-        justify-content: center;
-        flex-direction: column;
-        width: 553px;
-        background-color: #FAFAFA;
-        margin-left: 40px;
-    
-        }
-        .div-7{
-            justify-content: center;
-            flex-direction: column;
-        }
-    
-        .div2-7{
-            justify-content: center;
-            flex-direction: column;
-            margin-left: 30px;
-        }
-    
-        .div3-7{
-            flex-direction: column;
-            justify-content: center;
-            margin-left: 30px;
-            margin-top: 30px;
-        }
-        .div-8{
-            justify-content: center;
-            flex-direction: column;
-            background-color:#252B42 ;
-             height: 900px;
-            }
-            .div1-8{
-         justify-content: center;
-            flex-direction: column;
-                margin-left: 10px; 
-           }
-           .header-8{
-         justify-content: center;
-        flex-direction: column;
-        margin-top: 450px;
-        }
-           .img-8{
-               margin-left: 50px;
-               padding-top:-100px;  
-           }
-            .div-9{
-            padding-left: 10px;
-            margin-top: -60px;
-            }
-            .div-11{
-                margin: 0px 0px;
-                padding-left:40px;
-                margin-top: 120px
-            }
-            .div-12{
-                margin: 0px 0px;
-                padding-left: 40px;
-                margin-top: 45px
-            }
-            .div-13{
-                margin: 0px 0px;
-                padding-left: 40px;
-                margin-top: 55px
-            }
-            .div-15 {
-                display: flex;
-                flex-direction: column;
-                align-items: center;
-                padding: 0px;
-                margin: 200px 0px;
-            }
-            .footer{
-                background: #FAFAFA;
-                height: 1000px;
-                }
-            }
-                /*
+     .parent{
+        margin-left: 0px;
+     }
+    .li{
+        position: relative;
+    left: 5%;
+    }
+    .div-9{
+      padding-left: 0px; 
+    }
+}
+/*
        @media screen and (max-width:750px) {
         .hdr {
             background-image: url(./img/background.png);
