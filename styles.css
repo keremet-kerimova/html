@@ -1339,4 +1339,11 @@ color: #737373;
                                  background: #FAFAFA;
                                  height: 700px;
                                  }
-                             }        
+                                }        
+                                @media screen and (max-width:660px) {
+                                    .hdr{ background-image: url(./img/background.png);
+                                 background-size: 200%;
+                                 height: 900px;
+                                 margin-bottom: -200px;
+                                    }
+                                }
