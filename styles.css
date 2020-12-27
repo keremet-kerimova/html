@@ -1289,11 +1289,10 @@ color: #737373;
                     margin-top: 55px
                 }
                 .div-15 {
-                    display: flex;
-                    flex-direction: column;
-                    align-items: center;
-                    padding: 0px;
-                    margin: 200px 0px;
+                    margin: 0px 0px;
+                    padding-left: 340px;
+                    margin-top: -150px;
+        
                 }
                 .footer{
                     background: #FAFAFA;
