@@ -1142,12 +1142,12 @@ color: #737373;
     }
 }
 */
-       @media screen and (max-width:750px) {
-        .hdr {
-            background-image: url(./img/background.png);
-            background-size: 500%;
-            height: 800vh;
-        }
+       @media screen and (max-width:600px) {
+       .hdr{ background-image: url(./img/background.png);
+    background-size: 200%;
+    height: 900px;
+    margin-bottom: -200px;
+       }
         .li{
             position: relative;
         right:55%;
