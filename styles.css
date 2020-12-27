@@ -1212,6 +1212,9 @@ color: #737373;
                          flex-direction: column;
                          justify-content: center;
                 }
+                .img-8{
+                    margin-left: 50px;
+                }
                 .child {
                     padding-left: 5px;
                     margin-left: -15px;
@@ -1310,7 +1313,7 @@ color: #737373;
                          margin-top: 200px;
                          }
                             .img-8{
-                                margin-left: 180px;
+                                margin-left: 50px;
                             }
                              .div-9{
                              padding-left: 50px;
