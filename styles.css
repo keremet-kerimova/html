@@ -1153,8 +1153,11 @@ color: #737373;
     }
     .h3gh{
         margin-top: 50px;
-        margin-left: 180px;
-        }
+        margin-left: 200px;
+    }
+    ul{
+        margin-left: 45px;
+    }
       
         .btn{
             background: #FF7B47;
