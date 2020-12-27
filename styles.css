@@ -1228,10 +1228,10 @@ color: #737373;
                          margin-top: -325px;
                          margin-left: 220px;
                      }
-                     .img-5{
-                        width: 110%;
+                     .img-5 {
+                        width: 150%;
                         margin-top: 100px;
-                        margin-right: 100px;
+                        margin-right: 0px;
                     }
                      .h-5{
                          width: 500px;
@@ -1262,9 +1262,8 @@ color: #737373;
                          }
                      .h2-5{
                              margin-top: -50px;
-                             padding-top: -150px;
-                             padding-top: -100px;
                              padding-bottom: 500px;
+                             margin-left: 150px;
                      }
                      .pa-5{
                              margin-top: -370px;
