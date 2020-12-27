@@ -978,13 +978,131 @@ color: #737373;
         align-items: center;
     }
     .div-8 {
-        width: 770px;
-        height: 1000px;
+        width: 772px;
+        height: 800px;
     }
     .div1-8 {
         margin-left: 100px;
         margin-bottom: 100px;
         background: #252B42;
+    }
+    .div-9 {
+        padding-left: 100px;
+    }
+    .img-8 {
+        margin-left: 250px;
+        margin-bottom: 150px;
+        padding-top: 300px;
+    }
+    .div-12 {
+        margin-left: -24px;
+        margin-top: 110px;
+    }
+    .div-13 {
+        margin-left: 250px;
+    }
+    .div-11 {
+        padding-left: 250px;
+    }
+     .d-6{
+         width: 553px;
+         margin-left: 375px; 
+       }
+     .footer{
+         background: #FAFAFA;
+         height: 800px;
+     }
+    .li{
+        position: relative;
+    left: 5%;
+    }
+}
+@media screen and (max-width:500px){
+    .hdr {
+        height: 1000px;
+        background-size: 110%;
+        margin-bottom: -550px;
+    }
+    .btn {
+        margin-left: 240px;
+    }
+    .buttom {
+        margin-left: 410px;
+    }
+    .parent {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .child {
+        width: 200px;
+        margin-top: -80px;
+        margin-bottom: 20px;
+        margin-left: 50px;
+    }
+    .child-1 {
+        width: 200px;
+        margin-left: 400px;
+        margin-top: -265px;
+    }
+    .child-2 {
+        width: 200px;
+        margin-left: 50px;
+        margin-top: 30px;
+    }
+    .child-3 {
+        width: 200px;
+        margin-left: 400px;
+        margin-top: -248px;
+    }
+    .header-5 {
+        justify-content: center;
+        flex-direction: column;
+        background-color: #FAFAFA;
+    }
+    .img-5 {
+        padding-left: 5px;
+    }
+    .div-5{
+         height: 1100px;
+         width: 750px; 
+    }
+    .parent-2 {
+        height: 1000px;
+    }
+    .d-5{
+         width: 400px;
+        margin-left: 350px;
+         margin-top: -200px;
+    }
+    .d-6{
+        width: 553px;
+        margin-left: 375px; 
+      }
+     .div-7{
+         flex-direction: column;
+        
+     } 
+     .div3-7 {
+        margin-left: 40px;
+        margin-top: 99px;
+    }
+    .div2-7 {
+        margin-left: 40px;
+    }
+    .div-7 {
+        align-items: center;
+    }
+    .div-8 {
+        width: 772px;
+        height: 800px;
+    }
+    .div1-8 {
+        margin-left: 100px;
+        margin-bottom: 100px;
+        background: #252B42;
+    }
+    .div-9 {
+        padding-left: 100px;
     }
     .img-8 {
         margin-left: 250px;
