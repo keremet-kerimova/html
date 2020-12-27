@@ -1194,10 +1194,8 @@ color: #737373;
             margin-left: 290px;
         }
         .div-5 {
-            height: 1500px;
             margin-left: 100px;
-            margin-top: 200px;
-            background-color: #FAFAFA;
+                margin-top: 200px;
         }
             .img-5{
                 width: 140%;
@@ -1209,9 +1207,15 @@ color: #737373;
            justify-content: center;
            flex-direction: column;
            margin-left: 100px;
-            margin-top: 100px;
-            background-color: #FAFAFA;
+            margin-top: 100px
             }
+            .parent-2 {
+                height: 1000px;
+                width: 582px;
+            }
+        .h2-5{
+            margin-top: -50px;
+        }
             
         .img{
             padding: 55px;
