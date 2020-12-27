@@ -1017,6 +1017,7 @@ color: #737373;
     left: 5%;
     }
 }
+/*
 @media screen and (max-width:500px){
     .hdr {
         height: 1000px;
@@ -1028,10 +1029,8 @@ color: #737373;
         margin-left: 450px;
     }
     ul {
-        display: flex;
-        width: 450px;
-        justify-content: space-around;
-        margin-top: 45px;
+        margin-right: 600px;
+        margin-top: 80px;
     }
     .btn {
         margin-left: 240px;
@@ -1142,7 +1141,7 @@ color: #737373;
     left: 5%;
     }
 }
-/*
+*/
        @media screen and (max-width:750px) {
         .hdr {
             background-image: url(./img/background.png);
