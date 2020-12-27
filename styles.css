@@ -1216,31 +1216,26 @@ color: #737373;
                 width: 582px;
             }
         .h2-5{
-                margin-top: 50px;
+                margin-top: -50px;
                 padding-top: -150px;
                 padding-top: -100px;
                 padding-bottom: 500px;
         }
         .pa-5{
-                margin-top: -250px;
+                margin-top: -370px;
         }
             
         .img{
             padding: 55px;
             }
             .d-5{
-            background-color: #FAFAFA;
             margin-left: 20px;
             margin-top: 50px;
-            width: 584px;
             }
             .d-6{
-            justify-content: center;
-            flex-direction: column;
-            width: 553px;
-            background-color: #FAFAFA;
-            margin-left: 40px;
-        
+                    width: 564px;
+                    background-color: #FAFAFA;
+                    margin-left: 40px;
             }
             .div-7{
                 justify-content: center;
