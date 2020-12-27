@@ -1151,6 +1151,10 @@ color: #737373;
        .parent{
         margin-top: 1400px;
     }
+    .h3gh{
+        margin-top: 50px;
+        margin-left: 180px;
+        }
       
         .btn{
             background: #FF7B47;
@@ -1172,15 +1176,7 @@ color: #737373;
                 margin-top: 100px;
                 margin-left: 50px;
             }
-            .h3gh{
-                flex-direction: column;
-            justify-content: center;
-                font-size: 25px;
-                letter-spacing: 0.1px;
-                    margin-top: 50px;
-                    margin-left:160px;
-                    color: white;
-                }
+         
         .head{
             flex-direction: column;
             justify-content: center;
