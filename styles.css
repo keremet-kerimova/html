@@ -1213,7 +1213,7 @@ color: #737373;
                          justify-content: center;
                 }
                 .img-8{
-                    margin-left: 50px;
+                    margin-left: 110px;
                 }
                 .child {
                     padding-left: 5px;
@@ -1299,29 +1299,19 @@ color: #737373;
                              margin-left: 30px;
                              margin-top: 30px;
                          }
-                            .div-8 {
-                             width: 581px;
-                             height: 800px;
-                         }
-                         .div1-8 {
-                             margin-left: 50px;
-                         }
-                     
-                            .header-8{
+                       .header-8{
                           justify-content: center;
                          flex-direction: column;
                          margin-top: 200px;
                          }
-                            .img-8{
-                                margin-left: 50px;
-                            }
+        
                              .div-9{
                              padding-left: 50px;
                              margin-top: -60px;
                              }
                              .div-11{
                                      margin: 0px 0px;
-                                     padding-left: 343px;
+                                     padding-left: 290px;
                                      margin-top: -80px;
                              }
                              .div-12{
@@ -1331,7 +1321,7 @@ color: #737373;
                              }
                              .div-13{
                                  margin: 0px 0px;
-                                 padding-left: 340px;
+                                 padding-left: 290px;
                                  margin-top: -150px;
                              }
                              .div-15 {
