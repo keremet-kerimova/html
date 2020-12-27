@@ -1222,18 +1222,17 @@ color: #737373;
                 padding-bottom: 500px;
         }
         .pa-5{
-            padding-top: -100px;
+                margin-top: -250px;
         }
             
         .img{
             padding: 55px;
             }
             .d-5{
-            justify-content: center;
-            flex-direction: column;
-            width: 550px;
             background-color: #FAFAFA;
             margin-left: 20px;
+            margin-top: 50px;
+            width: 584px;
             }
             .d-6{
             justify-content: center;
