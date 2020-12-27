@@ -1230,11 +1230,15 @@ color: #737373;
                      }
                      .img-5{
                         width: 110%;
-                        margin-top: 20px;
+                        margin-top: 100px;
                     }
                      .h-5{
                          margin-top: -50px;
+                         margin-right: 90px;
                          padding-right: 100px;
+                     }
+                     .p-5{
+                        padding-right: 100px;
                      }
                      .div-5 {
                          flex-direction: column;
