@@ -1237,10 +1237,8 @@ color: #737373;
                     background-color: #FAFAFA;
                     margin-left: 40px;
             }
-            .div-7{
-                justify-content: center;
-                flex-direction: column;
-                margin-top: 350px;
+            .div-7 {
+                margin-top: 150px;
             }
         
             .div2-7{
