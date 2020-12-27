@@ -1253,17 +1253,16 @@ color: #737373;
                 margin-left: 30px;
                 margin-top: 30px;
             }
-            .div-8{
-                justify-content: center;
-                flex-direction: column;
-                background-color:#252B42 ;
-                 height: 900px;
-                }
-                .div1-8{
-             justify-content: center;
-                flex-direction: column;
-                    margin-left: 10px; 
-               }
+               .div-8 {
+                width: 772px;
+                height: 800px;
+            }
+            .div1-8 {
+                margin-left: 100px;
+                margin-bottom: 100px;
+                background: #252B42;
+            }
+        
                .header-8{
              justify-content: center;
             flex-direction: column;
