@@ -1148,8 +1148,8 @@ color: #737373;
     height: 900px;
     margin-bottom: -200px;
        }
-       .parent{
-        margin-top: 1400px;
+    .parent {
+        margin-top: 50px;
     }
     .h3gh{
         margin-top: 50px;
@@ -1172,21 +1172,20 @@ color: #737373;
     .group{
         margin-top: 100px;
         margin-left: 50px;
-    }
-         
+    } 
         .head{
             flex-direction: column;
             justify-content: center;
-        }
+   }
+    .child {
+        padding-left: 15px;
+        margin-left: -1px;
+}
       
         .img{
         padding: 55px;
         }
-        .child{
-            padding-left: 15px;
-            margin-top:-1200px ;
-            background-color:gainsboro;
-        }
+     
         .child-1{
             padding-left: 15px;
             margin-top: 50px;
