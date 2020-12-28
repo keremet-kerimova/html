@@ -93,7 +93,7 @@ margin: 5px 5px;
 .group{
     display: flex;
     margin-top: 20px;
-    margin-left: 535px;
+    margin-left: 520px;
 }
 .col-md {
 position: absolute;
@@ -1235,7 +1235,8 @@ color: #737373;
                  margin-bottom: -200px;
                     }
                 }
-                @media screen and (max-width:500px) {
+                @media screen and (max-width:500px){
+                
                     .hdr{ background-image: url(./img/background.png);
                  background-size: 280%;
                  height: 900px;
