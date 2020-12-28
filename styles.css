@@ -168,6 +168,7 @@ margin: 10px 20px;
 }
 .img{
 padding: 15px;
+width: 75px;
 }
 .h2{
 font-size: 16px;
@@ -196,6 +197,7 @@ height: 48px;
 border: 1px solid #0D5C63;
 border-radius: 37px;
 margin: 20px 20px;
+background-color: white;
 }
 button img{
     padding-left: 10px;
@@ -738,6 +740,7 @@ color: #737373;
     left: 5%;
     }
 }
+/* 
 @media screen and (max-width:1100px){
     .hdr {
         height: 1000px;
