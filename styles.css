@@ -323,8 +323,10 @@ margin: 25px 20px;
     color: #737373;
     margin: 0px 92px;
     }
-    .div-5{
-    height: 300px;
+    .div-5 {
+        height: 300px;
+        margin-left: 790px;
+        margin-top: -350px;
     }
     .im-5{
         margin: 40px 80px;
