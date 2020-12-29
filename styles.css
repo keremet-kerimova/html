@@ -635,12 +635,15 @@ color: #737373;
         margin-left: 600px;
         margin-top: -300px
     }
+    .big-conteiner{
+        margin-left: auto;
+        margin-right: auto;
+    }
 
     .div1-8{
         margin-left: 75px; 
        }
     .footer{
-        background: #FAFAFA;
         height: 500px;
     }
 .btn{
@@ -762,7 +765,7 @@ color: #737373;
     }
 }
 
-/*
+
 @media screen and (max-width:1100px){
     .hdr {
         height: 1000px;
@@ -776,7 +779,7 @@ color: #737373;
         width: 1082px;
     }
     */
-    /*
+    
     .div-11{
         padding-left: 100px;
     }
@@ -859,7 +862,7 @@ color: #737373;
         margin-left: 180px;
         /* margin-bottom: 250px; */
         /* margin-top: 5px; */
-        /*
+        
         padding-top: 100px;
     }
     .btn {
@@ -1053,6 +1056,7 @@ color: #737373;
     left: 5%;
     }
 }
+/*
 @media screen and (max-width:742px){
     .hdr {
         justify-content: center;
@@ -1265,7 +1269,8 @@ color: #737373;
                  height: 900px;
                  margin-bottom: -200px;
                     }
-                }
+                } 
+                */
                 @media screen and (max-width:500px){
                 
                     .hdr{ background-image: url(./img/background.png);
@@ -1433,7 +1438,7 @@ color: #737373;
                                  height: 700px;
                                  }
                                 }    
-                            }
+                            /*
                             @media screen and (max-width:522px){
                                 .child {
                                     padding-left: 5px;
