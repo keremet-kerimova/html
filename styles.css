@@ -341,7 +341,7 @@ margin: 25px 20px;
     }
     .d-5{
         display: flex;
-    flex-direction: column;
+        flex-direction: column;
     align-items: flex-start;
     width: 383px;
     margin: 0px 10px;
@@ -415,7 +415,6 @@ margin: 25px 20px;
     margin: 0px 10px;
     }
     .div2-7{
-        flex-direction: column;
         align-items: flex-start;
         padding: 60px 50px;
         width: 420px;
@@ -456,7 +455,6 @@ margin: 25px 20px;
     margin: -40px 0px;
     }
     .div3-7{
-        flex-direction: column;
         align-items: flex-start;
         padding: 60px 50px;
         width: 420px;
@@ -466,15 +464,15 @@ margin: 25px 20px;
         margin-top: -300px;
     }
     .div-8{
-        width: 1336px;
+        
           background: #252B42;
          margin-top: 100px;
           height: 500px;
-           background: #252B42;
+
        }
        .div1-8{
            display: flex;
-       flex-direction: column;
+           flex-direction: column;
        align-items: flex-start;
        padding: 80px 30px;
            margin-left: 180px;
@@ -609,12 +607,12 @@ width: 100px;
     padding-left: 450px;
     margin-top: -145px
 }
-.div-15{
-display: flex;
-flex-direction: column;
-align-items: center;
-padding: 0px;
-margin: 200px 0px;
+.div-15 {
+    display: flex;
+    align-items: center;
+    padding: 0px 380px;
+    margin: 200px 0px;
+    margin-left: 150px;
 }
 .h6-15{
     font-family: 'Montserrat', sans-serif;
@@ -688,7 +686,7 @@ color: #737373;
             
     }
 }
-
+/*
  @media screen and (max-width:1150px){
     .hdr{
         height: 900px;
@@ -708,6 +706,7 @@ color: #737373;
          width: 1215px;
      }
      */
+     /*
      .div1-8{
          margin-left: 75px; 
         }
@@ -756,8 +755,8 @@ color: #737373;
         position: relative;
     left: 5%;
     }
-}
 
+/*
 @media screen and (max-width:1100px){
     .hdr {
         height: 1000px;
@@ -771,6 +770,7 @@ color: #737373;
         width: 1082px;
     }
     */
+    /*
     .div-11{
         padding-left: 100px;
     }
@@ -853,6 +853,7 @@ color: #737373;
         margin-left: 180px;
         /* margin-bottom: 250px; */
         /* margin-top: 5px; */
+        /*
         padding-top: 100px;
     }
     .btn {
