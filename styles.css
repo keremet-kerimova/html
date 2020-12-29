@@ -390,6 +390,7 @@ margin: 25px 20px;
         display: flex;
         flex-direction: column;
     background: #060707;
+    height: 700px;
 
     }
     .div1-7{
@@ -664,7 +665,7 @@ color: #737373;
             margin-left: 50px;
         }
         .img-5{       
-         margin-left: -300px;
+         margin-left: -400px;
         }
         .div-5{
             margin-left: 690px;
@@ -673,7 +674,8 @@ color: #737373;
             margin-left: 700px;
         }
         .d-6{
-            margin-left: 500px;
+            margin-left: 720px;
+           margin-top: -80px;
         }
         .parent-2{
             height: 1200px;
