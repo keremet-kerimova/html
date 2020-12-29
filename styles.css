@@ -653,21 +653,13 @@ letter-spacing: 0.2px;
 color: #737373;
 }
 @media screen and (max-width:1200px){
-.hdr{
-        flex-direction: column;
-        justify-content: center;
-       height: 900px;
-    }
+
  .div2-7{
         margin-left: 120px;
     }
 .div3-7{
         margin-left: 600px;
         margin-top: -300px
-    }
-.big-conteiner{
-        margin-left: auto;
-        margin-right: auto;
     }
 
 .div1-8{
@@ -676,26 +668,7 @@ color: #737373;
 .footer{
         height: 500px;
     }
-.btn{
-        width: 150px;
-        margin: -100px 0px;
-        margin-left: 400px;
-       padding: 15px 19px;
-        }
 
-
-.buttom{
-        width: 130px;
-        margin: 10px 0px;
-        margin-left: 570px;
-        margin-top: 54px;
-        }
-.group{
-            flex-direction: column;
-            justify-content: center;
-            margin-top: 100px;
-            margin-left: 50px;
-        }
 .img-5{       
          margin-left: -400px;
         }
@@ -726,70 +699,6 @@ color: #737373;
     }
 }
 
- @media screen and (max-width:910px){
- .hdr{
-        height: 900px;
-     }
-     .new{
-         height: 500px;
-     }
-     .div2-7{
-         margin-left: 120px;
-     }
-     .div3-7{
-         margin-left: 600px;
-         margin-top: -300px
-     }
-    
-     
-.div1-8{
-         margin-left: 75px; 
-        }
- .d-6{
-         width: 553px;  
-       }
-.footer{
-         background: #FAFAFA;
-         height: 450px;
-     }
- .btn{
-         width: 150px;
-         margin: -100px 0px;
-         margin-left: 400px;
-        padding: 15px 19px;
-         }
- .buttom{
-         width: 130px;
-         margin: 10px 0px;
-         margin-left: 570px;
-         margin-top: 54px;
-         }
-.group{
-             flex-direction: column;
-             justify-content: center;
-             margin-top: 100px;
-             margin-left: 50px;
-         }
-.parent-2{
-             height: 1200px;
-             background: #FAFAFA;
-             background-image: none;
-             margin-top: 100px;
-             }
- .header-5{
-             justify-content: center;
-              background-color: #FAFAFA;
-              }
-.parent{
-         justify-content: center;
-         padding-left: 110px;
-             
-     }
-     .li{
-        position: relative;
-    left: 5%;
-    }
-}
 
 
 @media screen and (max-width:1100px){
@@ -822,9 +731,7 @@ color: #737373;
          height: 450px;
      }
 
-         .group{
-            margin-left: 0px;
-         }
+      
          .parent-2{
             height: 900px;
              }
@@ -834,10 +741,7 @@ color: #737373;
      .parent{
         margin-left: 0px;
      }
-    .li{
-        position: relative;
-    left: 5%;
-    }
+   
     .div-9{
       padding-left: 90px; 
     }
@@ -851,13 +755,6 @@ color: #737373;
 }
 
 
-@media screen and (max-width:1030px){
-    .hdr {
-        height: 1000px;
-        background-size: 150%;
-        margin-bottom: -450px;
-    }
-}
 @media screen and (max-width:1000px){
     .hdr {
         margin-bottom: -450px;
@@ -1003,15 +900,19 @@ color: #737373;
         background-color: #FAFAFA;
     }
     .div-5{
-         height: 1100px;
+         padding-top: 300px;
          width: 750px; 
+         margin-top: -400px;
+         margin-left: -15px;
     }
     .parent-2 {
         height: 1350px;
     }
-    .d-5{
-       margin-left: 55px;
-    }
+    
+     .d-5 {
+            margin-left: 55px;
+            margin-top: -500px;
+        }
     .d-6{
             margin-left: 75px;
         
@@ -1051,9 +952,10 @@ color: #737373;
         padding-left: 100px;
     }
     .img-5 {
-        padding-left: 5px;
+        padding-left: 45px;
         width: 110%;
-        margin-bottom: -60px;
+        margin-bottom: 250px;
+        margin-left: 5px;
     }
     .div-12 {
         margin-left: -24px;
@@ -1076,30 +978,6 @@ color: #737373;
     }
 }
 
-@media screen and (max-width:742px){
-    .hdr {
-        justify-content: center;
-
-
-flex-direction: column;
-        height: 1000px;
-        background-size: 130%;
-        margin-bottom: -450px;
-    }
-}
-@media screen and (max-width:682px){
-    .hdr {
-        height: 1000px;
-        background-size: 210%;
-        margin-bottom: -450px;
-    }
-    .btn {
-        margin-left: 190px;
-    }
-    .buttom {
-        margin-left: 350px;
-    }
-}
        @media screen and (max-width:600px) {
        .hdr{ background-image: url(./img/background.png);
     background-size: 200%;
@@ -1111,7 +989,7 @@ flex-direction: column;
     }
     .h3gh{
         margin-top: 50px;
-        margin-left: 200px;
+
     }
     ul{
         margin-left: 45px;
@@ -1140,7 +1018,7 @@ flex-direction: column;
         margin-left: -1px;
 }
         .child-1{
-            margin-top: -344px;
+            /* margin-top: -344px; */
             margin-left: 290px;
         }
         .child-2{
@@ -1148,7 +1026,7 @@ flex-direction: column;
         }
         .child-3{
             padding-left: 15px;
-            margin-top: -325px;
+            /* margin-top: -325px; */
             margin-left: 290px;
         }
         .div-5 {
@@ -1157,9 +1035,11 @@ flex-direction: column;
                 width: 625px;
                 margin-top: 80px;
         }
-            .img-5{
-                width: 140%;
-            }
+        .img-5 {
+            width: 140%;
+            margin-right: 80px;
+            margin-top: -40px;
+        }
             .div-8 {
                 width: 490px;
             }
@@ -1171,30 +1051,29 @@ flex-direction: column;
             }
             .parent-2 {
                 height: 1100px;
-                width: 582px;
+                width: 545px;
             }
-        .h2-5{
-                margin-top: -50px;
-                padding-top: -150px;
-                padding-top: -100px;
-                padding-bottom: 500px;
-        }
+            .h2-5 {
+                margin-top: -550px;
+                padding-bottom: 430px;
+                margin-left: 0px;
+            }
         .pa-5{
-                margin-top: -370px;
+            margin-top: -370px;
+            margin-left: 0px;
         }
             
-        .img{
-            padding: 55px;
-            }
+        
             .d-5{
-            margin-left: 20px;
-            margin-top: 50px;
+                margin-left: -30px;
+    margin-top: -1000px;
             }
             .d-6{
-                    margin-left: 40px;
+                    margin-left: -10px;
             }
             .div-7 {
                 margin-top: 150px;
+                height: 900px;
             }
         
             .div2-7{
@@ -1210,7 +1089,7 @@ flex-direction: column;
                 margin-top: 30px;
             }
                .div-8 {
-                width: 581px;
+                width: 545px;
                 height: 800px;
             }
             .div1-8 {
@@ -1260,37 +1139,7 @@ margin: 0px 0px;
                     height: 700px;
                     }
                 } 
-                @media screen and (max-width:660px) {
-                    .hdr{ 
-                 background-size:150%;
-
-                    }
-                    .group {
-                        margin-left: -70px;
-                    }
-                }
-                @media screen and (max-width:673px) {
-                    .hdr{ 
-                 background-size:150%;
-
-                    }
-                    .group {
-                        margin-left: -70px;
-                    }
-                }
-                @media screen and (max-width:573px) {
-                    .hdr{ background-image: url(./img/background.png);
-                 background-size: 260%;
-                 height: 900px;
-                 margin-bottom: -200px;
-                    }
-                @media screen and (max-width:546px) {
-                    .hdr{ background-image: url(./img/background.png);
-                 background-size: 270%;
-                 height: 900px;
-                 margin-bottom: -200px;
-                    }
-                } 
+               
                 
                 @media screen and (max-width:500px){
                 
@@ -1328,7 +1177,7 @@ margin: 0px 0px;
                          justify-content: center;
                 }
                 .img-8{
-                    margin-left: 110px;
+                    margin-left: 150px;
                 }
                 .child {
                     padding-left: 5px;
@@ -1348,8 +1197,8 @@ margin: 0px 0px;
                      }
                      .img-5 {
                         width: 150%;
-                        margin-top: -400px;
-                        margin-right: -400px;
+                        margin-top: -100px;
+                        margin-right: 50px;
                     }
                      .h-5{
                          width: 500px;
@@ -1376,13 +1225,12 @@ margin: 0px 0px;
                              height: 1100px;
                              width: 483px;
                          }
-                     .h2-5{
-                             margin-top: -50px;
-                             padding-bottom: 500px;
-                             margin-left: 150px;
-                     }
+                         .h2-5 {
+                            margin-left: 150px;
+                            margin-top: -250px;
+                        }
                      .pa-5{
-                             margin-top: -370px;
+                             margin-top: -440px;
                              margin-left: 150px;
                      }
                          
@@ -1390,14 +1238,15 @@ margin: 0px 0px;
                          padding: 15px;
                          }
                          .d-5{
-                         margin-left: 80px;
-                         margin-top: 50px;
+                         margin-left: -20px;
+                         margin-top: -710px;
                          }
                          .d-6{
-                                 margin-left: 100px;
+                                 margin-left: -5px;
                          }
                          .div-7 {
-                             margin-top: 150px;
+                             margin-top: 50px;
+                             height: 900px;
                          }
                      
                          .div2-7{
