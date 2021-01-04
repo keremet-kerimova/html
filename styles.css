@@ -975,18 +975,24 @@ color: #737373;
     .section{
         margin-left: -650px;
     }
+    .div-13 {
+        margin-left: -400px;
+        margin-top: -0px;
+    }
+    .div-12 {
+        margin-left: 200px;
+        padding-top: 250px;
+    }
+    .div-15 {
+        margin: 0px 100px;
+        margin-top: 220px;
+    }
      .div3-7{
-                    /* flex-direction: column;
-                    justify-content: center; */
-                    margin-left: 30px;
-                    margin-top: 30px;
+           margin-left: 30px;
+           margin-top: 30px;
                 }
-            
-                /* .div1-8 {
-                    margin-left: 50px;
-                } */
         
-                    .div-9{
+                    /* .div-9{
                     padding-left: 50px;
                     margin-top: -60px;
                     }
@@ -1005,23 +1011,23 @@ color: #737373;
                         padding-left: 340px;
                         margin-top: -150px;
                     }
-                
+                 */
                     /* .div{
     margin: 0px 0px;
                     padding-left: 0px;
                     margin-top: 150px;
                 } */
             
-                        .img-5{
+                        /* .img-5{
                             width: 160%;
                         }
-                
+                 */
                     } 
                    
                     
                 
 
-     @media screen and (max-width:700px){
+     /* @media screen and (max-width:700px){
         .section{
             justify-content: center;
         margin-top: 420px;
@@ -1031,7 +1037,7 @@ color: #737373;
      @media screen and (max-width:1192px){
         .section{
         margin-left: 50px;
-     }
+     } */
 @media screen and (max-width:600px) {
     .hdr{ background-image: url(./img/background.png);
     background-size: 200%;
@@ -1081,8 +1087,15 @@ ul{
     margin-left: 290px;
 }
 .div-8 {
-    width: 490px;
- }
+    width: 607px;
+    height: 800px;
+}
+.img-5 {
+    width: 100%;
+}
+.img-8 {
+    margin-top: -150px;
+}
 .div-7 {
    margin-top: 150px;
    height: 900px;
@@ -1092,15 +1105,24 @@ ul{
     flex-direction: column;
     margin-left: 30px;
  }
+ .div-12 {
+    margin: -100px 10px;
+    padding-left: 80px;
+ }
+ .div-13 {
+    margin: 0px 0px;
+    padding-left: 340px;
+    margin-top: 100px;
+}
+.div-15 {
+    margin: 0px 100px;
+    margin-top: 110px;
+}
 .div3-7{
                 flex-direction: column;
                 justify-content: center;
                 margin-left: 30px;
                 margin-top: 30px;
-            }
-               .div-8 {
-                width: 545px;
-                height: 800px;
             }
             .div1-8 {
                 margin-left: 50px;
@@ -1111,9 +1133,7 @@ ul{
             flex-direction: column;
             margin-top: 200px;
             }
-               .img-8{
-                   margin-left: 180px;
-               }
+              
                 .div-9{
                 padding-left: 50px;
                 margin-top: -60px;
@@ -1123,38 +1143,27 @@ ul{
                         padding-left: 343px;
                         margin-top: -80px;
                 }
-                .div-12{
-                    margin: 0px 0px;
-                    padding-left: 80px;
-                    margin-top: 45px
-                }
-                .div-13{
-                    margin: 0px 0px;
-                    padding-left: 340px;
-                    margin-top: -150px;
-                }
+               
+            
                 .div-15 {
                     margin: 0px 0px;
                     padding-left: 0px;
                     margin-top: 150px;
         
                 }
-                .div{
+                /* .div{
 margin: 0px 0px;
                 padding-left: 0px;
                 margin-top: 150px;
-            }
+            } */
                 .footer{
                     background: #FAFAFA;
                     height: 700px;
                     }
-                    .img-5{
-                        width: 160%;
-                    }
                     .section {
                         justify-content: center;
                         margin-top: 420px;
-                        margin-left: -550px;
+                        margin-left: -650px;
                     }
                    
                 } 
