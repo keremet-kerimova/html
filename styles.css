@@ -881,6 +881,146 @@ color: #737373;
         margin-top: 500px;
         margin-left: -500px;
     }
+    .footer1{
+        margin-left: -45px;
+    
+    }
+    @media screen and (max-width:620px) {
+        .hdr{ background-image: url(./img/background.png);
+        background-size: 200%;
+        height: 900px;
+        margin-bottom: -200px;
+    }
+    .parent-2 {
+        height: 1300px;
+        margin-left: -100px;
+    }
+    .header-5 {
+        justify-content: center;
+        margin-right: 10px;
+    }
+    .parent {
+        margin-top: 50px;
+        margin-left: -145px;
+    }
+    .h3gh{
+        margin-top: 50px;
+    }
+    ul{
+        margin-left: 45px;
+    }
+    .section {
+        margin-left: -650px;
+    }
+    .btn {
+      width: 150px;
+        margin: -60px 0px;
+        padding: 15px 15px;
+        margin-left: 90px;
+        }
+    .buttom {
+        width: 120px;
+        margin: 10px 0px;
+        margin-left: 270px;
+        }    
+    .group{
+        margin-top: 100px;
+        margin-left: 50px;
+     } 
+    .head{   
+        flex-direction: column;
+        justify-content: center;
+       }
+    .child {
+        padding-left: 15px;
+        margin-left: -1px;
+    }
+    .child-1{
+            margin-left: 290px;
+            }
+    .child-2{
+         margin-left: 0;
+        }
+    .child-3{
+        padding-left: 15px;
+        margin-left: 290px;
+    }
+    .div-8 {
+        width: 490px;
+     }
+    .div-7 {
+       margin-top: 150px;
+       height: 900px;
+     }
+    .div2-7{
+        justify-content: center;
+        flex-direction: column;
+        margin-left: 30px;
+     }
+    .div3-7{
+                    flex-direction: column;
+                    justify-content: center;
+                    margin-left: 30px;
+                    margin-top: 30px;
+                }
+                   .div-8 {
+                    width: 545px;
+                    height: 800px;
+                }
+                .div1-8 {
+                    margin-left: 50px;
+                }
+            
+                   .header-8{
+                 justify-content: center;
+                flex-direction: column;
+                margin-top: 200px;
+                }
+                   .img-8{
+                       margin-left: 180px;
+                   }
+                    .div-9{
+                    padding-left: 50px;
+                    margin-top: -60px;
+                    }
+                    .div-11{
+                            margin: 0px 0px;
+                            padding-left: 343px;
+                            margin-top: -80px;
+                    }
+                    .div-12{
+                        margin: 0px 0px;
+                        padding-left: 80px;
+                        margin-top: 45px
+                    }
+                    .div-13{
+                        margin: 0px 0px;
+                        padding-left: 340px;
+                        margin-top: -150px;
+                    }
+                    .div-15 {
+                        margin: 0px 0px;
+                        padding-left: 0px;
+                        margin-top: 150px;
+            
+                    }
+                    .div{
+    margin: 0px 0px;
+                    padding-left: 0px;
+                    margin-top: 150px;
+                }
+                    .footer{
+                        background: #FAFAFA;
+                        height: 700px;
+                        }
+                        .img-5{
+                            width: 160%;
+                        }
+                
+                    } 
+                   
+                    
+                
 
      @media screen and (max-width:700px){
         .section{
@@ -1012,12 +1152,12 @@ margin: 0px 0px;
                     .img-5{
                         width: 160%;
                     }
-                    .section {
+                    /* .section {
                         justify-content: center;
                         margin-top: 420px;
                         margin-left: -550px;
                     }
-                   
+                    */
                 } 
                
                 
