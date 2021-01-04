@@ -845,12 +845,6 @@ color: #737373;
         justify-content: center;
         margin-right: 120px;
     }
-
-     .div-7{
-         flex-direction: column;
-        
-     } 
-     
     .div-7 {
         height: 1000px;
         margin-left: -85px;
@@ -859,6 +853,9 @@ color: #737373;
         margin-left: -80px;
         width: 782px;
         height: 800px;
+    }
+    .div1-8 {
+        margin-left: 150px;
     }
     .parent-2 {
         height: 1300px;
@@ -876,13 +873,14 @@ color: #737373;
         margin: 250px 180px;
         padding: 0;
     }
-    .footer{
+    .footer {
+        margin-left: -75px;
         height: 600px;
     }
-    .header-8{
-          margin-top: 500px;
-            margin-left: -600px;
-        }
+    .header-8 {
+        margin-top: 500px;
+        margin-left: -500px;
+    }
 
      @media screen and (max-width:700px){
         .section{
