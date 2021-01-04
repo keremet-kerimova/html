@@ -849,11 +849,11 @@ color: #737373;
         height: 1000px;
         margin-left: -85px;
     }
-    .div-8 {
+    /* .div-8 {
         margin-left: -80px;
         width: 782px;
         height: 800px;
-    }
+    } */
     .div1-8 {
         margin-left: 150px;
     }
@@ -909,9 +909,6 @@ color: #737373;
     ul{
         margin-left: 45px;
     }
-    .section {
-        margin-left: -650px;
-    }
     .btn {
       width: 150px;
         margin: -60px 0px;
@@ -946,39 +943,49 @@ color: #737373;
         margin-left: 290px;
     }
     .div-8 {
-        width: 490px;
-     }
-    .div-7 {
-       margin-top: 150px;
-       height: 900px;
-     }
+        margin-left: 0px;
+        width: 625px;
+        height: 800px;
+    }
+     .div-7 {
+        padding-left: 170px;
+        margin-top: 150px;
+        height: 900px;
+    }
     .div2-7{
         justify-content: center;
         flex-direction: column;
         margin-left: 30px;
      }
-    .div3-7{
+     .section {
+        margin-left: -650px;
+    }
+    .img-8 {
+        margin-right: 150px;
+    }
+    .header-8 {
+        justify-content: center;
+        flex-direction: column;
+        margin-top: 353px;
+    }
+    .footer1 {
+        margin-left: 45px;
+    }
+    .div-15 {
+        margin: 0px 100px;
+        margin-top: 120px;
+    }
+    /* .div3-7{
                     flex-direction: column;
                     justify-content: center;
                     margin-left: 30px;
                     margin-top: 30px;
                 }
-                   .div-8 {
-                    width: 545px;
-                    height: 800px;
-                }
+                
                 .div1-8 {
                     margin-left: 50px;
                 }
-            
-                   .header-8{
-                 justify-content: center;
-                flex-direction: column;
-                margin-top: 200px;
-                }
-                   .img-8{
-                       margin-left: 180px;
-                   }
+        
                     .div-9{
                     padding-left: 50px;
                     margin-top: -60px;
@@ -998,27 +1005,19 @@ color: #737373;
                         padding-left: 340px;
                         margin-top: -150px;
                     }
-                    .div-15 {
-                        margin: 0px 0px;
-                        padding-left: 0px;
-                        margin-top: 150px;
-            
-                    }
+                
                     .div{
     margin: 0px 0px;
                     padding-left: 0px;
                     margin-top: 150px;
                 }
-                    .footer{
-                        background: #FAFAFA;
-                        height: 700px;
-                        }
+            
                         .img-5{
                             width: 160%;
                         }
                 
                     } 
-                   
+                    */
                     
                 
 
@@ -1152,12 +1151,12 @@ margin: 0px 0px;
                     .img-5{
                         width: 160%;
                     }
-                    /* .section {
+                    .section {
                         justify-content: center;
                         margin-top: 420px;
                         margin-left: -550px;
                     }
-                    */
+                   
                 } 
                
                 
