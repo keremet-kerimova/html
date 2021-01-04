@@ -700,11 +700,11 @@ color: #737373;
         margin-right: 100px;} */
 
 @media screen and (max-width:1000px){
-    .hdr {
+    /* .hdr {
         margin-bottom: -450px;
         background-image: url(./img/background.png);
         background-size: 100%;
-        }
+        } */
         .parent {
             margin-left: -180px;
         }
@@ -793,11 +793,11 @@ color: #737373;
 }
      
 @media screen and (max-width:800px){
-    .hdr {
+    /* .hdr {
         height: 1000px;
         background-size: 110%;
         margin-bottom: -550px;
-    }
+    } */
     .btn {
         margin-left: 240px;
     }
@@ -886,11 +886,11 @@ color: #737373;
     
     }
     @media screen and (max-width:620px) {
-        .hdr{ background-image: url(./img/background.png);
+        /* .hdr{ background-image: url(./img/background.png);
         background-size: 200%;
         height: 900px;
         margin-bottom: -200px;
-    }
+    } */
     .parent-2 {
         height: 1300px;
         margin-left: -100px;
@@ -1039,11 +1039,11 @@ color: #737373;
         margin-left: 50px;
      } */
 @media screen and (max-width:600px) {
-    .hdr{ background-image: url(./img/background.png);
+    /* .hdr{ background-image: url(./img/background.png);
     background-size: 200%;
     height: 900px;
     margin-bottom: -200px;
-}
+} */
 .parent {
     margin-top: 50px;
 }
@@ -1118,44 +1118,23 @@ ul{
     margin: 0px 100px;
     margin-top: 110px;
 }
-.div3-7{
-                flex-direction: column;
-                justify-content: center;
-                margin-left: 30px;
-                margin-top: 30px;
-            }
-            .div1-8 {
-                margin-left: 50px;
-            }
-        
-               .header-8{
-             justify-content: center;
-            flex-direction: column;
-            margin-top: 200px;
-            }
-              
-                .div-9{
-                padding-left: 50px;
-                margin-top: -60px;
-                }
-                .div-11{
-                        margin: 0px 0px;
-                        padding-left: 343px;
-                        margin-top: -80px;
-                }
-               
-            
-                .div-15 {
-                    margin: 0px 0px;
-                    padding-left: 0px;
-                    margin-top: 150px;
-        
-                }
-                /* .div{
-margin: 0px 0px;
-                padding-left: 0px;
-                margin-top: 150px;
-            } */
+.div1-8 {
+    margin-left: 50px;
+}    
+.header-8{
+    justify-content: center;
+   flex-direction: column;
+   margin-top: 200px;
+   }  
+.div-9{
+padding-left: 50px;
+    margin-top: -60px;
+}
+.footer{
+    background: #FAFAFA;
+    height: 700px;
+    }              
+
                 .footer{
                     background: #FAFAFA;
                     height: 700px;
@@ -1167,126 +1146,118 @@ margin: 0px 0px;
                     }
                    
                 } 
+@media screen and (max-width:500px){
+    .header1{
+        height: 800px;
+        background-size: 350%;
+    }
+    .parent {
+        padding-left: 150px;
+    }
+    ul{
+        margin-left: 6px;
+    }
+    .btn {
+        width: 150px;
+        margin: -60px 0px;
+        padding: 15px 15px;
+        margin-left: 90px;
+    }
+    .buttom {
+        width: 120px;
+        margin: 10px 0px;
+        margin-left: 270px;
+    }
+    .group{
+        margin-top: 90px;
+        margin-left: 0px;
+    }
+    .head{
+        flex-direction: column;
+        justify-content: center;
+}    
+.child {
+    margin-left: 15px;
+}
+.child-1 {
+    margin-left: 250px;
+}
+.child-2 {
+    margin-left: 15px;
+}
+.child-3 {
+    margin-left: 250px;
+}
+.div-7 {
+    margin-top: 100px;
+} 
+.div1-7{
+    width: 400px;
+    margin-left: 0px;
+}
+.div2-7 {
+    justify-content: center;
+    flex-direction: column;
+    margin-left: -15px;
+}
+.div3-7 {
+    flex-direction: column;
+    justify-content: center;
+    margin-left: -15px;
+    margin-top: 30px;
+}
+.div-8 {
+    width: 507px;
+}
+.img-8{
+    margin-top: -130px;
+    margin-right: 240px;
+}
+.div-11 {
+    margin-left: 200px;
+}
+.div-15{
+    margin-left: 40px;
+}
+.div-13{
+    margin-left: -50px;
+}
+@media screen  and (max-width:770px){
+.div-8{
+    margin-left: -100px;
+    height: 800px;
+} 
+nav ul{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+}
+nav ul div{
+    padding: 10px 0;
+    align-items: center;
+    margin: 0;
+}
+nav ul div:nth-child(1){
+    padding-left: 0;
+}
+nav ul div:nth-child(1) li{
+    margin: 0;
+}
+nav ul div:nth-child(3){
+    padding-right: 0;
+}
+nav ul div:nth-child(2){
+    padding-left: 0;
+}
+}
+
+
+}
+
                
-                
-                @media screen and (max-width:500px){
-                
-                    .hdr{ background-image: url(./img/background.png);
-                 background-size: 280%;
-                 height: 900px;
-                 margin-bottom: -200px;
-                    }
-                 .parent{
-                    justify-content: center;
-                    flex-direction: column;
-                    height: 800px;
-
-                 }
-                 ul{
-                     margin-left: 6px;
-                 }
-                 .btn {
-                     width: 150px;
-                     margin: -60px 0px;
-                     padding: 15px 15px;
-                     margin-left: 90px;
-                 }
-                 .buttom {
-                     width: 120px;
-                     margin: 10px 0px;
-                     margin-left: 270px;
-                 }    
-                 .group{
-                     margin-top: 90px;
-                     margin-left: 0px;
-                 } 
-                     .head{
-                         flex-direction: column;
-                         justify-content: center;
-                }
-                .img-8{
-                    margin-left: 150px;
-                }
-                .child {
-                    padding-left: 5px;
-                    margin-left: -15px;
-                    margin-bottom: 101px;
-                }
-                     .child-1{
-                         margin-top: -344px;
-                         margin-left: 220px;
-                     }
-                     .child-2{
-                     margin-left: -15px;
-                     }
-                     .child-3{
-                     margin-left: 220px;
-                     margin-top: -243px;
-                     }
-                
-                         .div-8 {
-                             width: 483px;
-                         }
-
-                     .img{
-                         padding: 15px;
-                         }
-                         /* .d-5{
-                         margin-left: -20px;
-                         margin-top: -710px;
-                         } 
-                         .d-6{
-                                 margin-left: -5px;
-                         }
-                         */
-                         .div-7 {
-                             margin-top: 50px;
-                             height: 900px;
-                         }
-                     
-                         .div2-7{
-                             justify-content: center;
-                             flex-direction: column;
-                             margin-left: 30px;
-                         }
-                     
-                         .div3-7{
-                             flex-direction: column;
-                             justify-content: center;
-                             margin-left: 30px;
-                             margin-top: 30px;
-                         }
-                       .header-8{
-                          justify-content: center;
-                         flex-direction: column;
-                         margin-top: 200px;
-                         }
-        
-                           
-                             .div-11 {
-                                /* margin: 0px 0px; */
-                                margin-left: -50px;
-                             }
-                             .div-12{
-                                 margin: 0px 0px;
-                                 padding-left: 80px;
-                                 margin-top: 45px
-                             }
-                             .div-13 {
-                                /* margin: 0px 0px; */
-                                margin-left: -50px;
-                             }
-                             
-                             .div{
-                             margin: 0px 0px;
-                             padding-left: 0px;
-                             margin-top: 150px;
-                         }
-                             .footer{
-                                 background: #FAFAFA;
-                                 height: 700px;
-                                 }
-                                }    
+              
+  
                             @media(max-width:1050px){
                                 nav ul{
                                     display: flex;
