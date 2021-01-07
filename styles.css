@@ -829,6 +829,7 @@ color: #737373;
       height: 1100px;
 
     }
+   
 }
 }
 @media screen and (max-width:1200px){
@@ -971,8 +972,29 @@ color: #737373;
         margin-left: 350px;
     }
     }
+    @media screen and (max-width:800px){
+        .div-13 {
+            margin-top: 40px;
+            margin-left: -380px;
+        }
+        .div-15 {
+            margin: 250px 180px;
+            padding: 0;
+        }
+        .footer {
+            margin-left: -75px;
+            height: 600px;
+        }
+    }
     @media screen and (max-width:1100px){
-        
+        .footer {
+            margin-left: -50px;
+            padding-left: 50px;
+            height: 500px;
+        }
+    .footer1{
+        margin-left: 210px;
+    }
     }
 
 
