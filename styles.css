@@ -1071,34 +1071,14 @@ color: #737373;
     .div-11 {
         margin-left: 200px;
     }
-    .div-15 {
-        padding: 0px 90px;
-        margin: 150px 0px 100px 150px;
+    .div-15{
+        margin-left: 40px;
     }
-    .div-13 {
-        margin-left: 0px;
-    }
-    .div-12 {
-        margin-left: 100px;
-        margin-top: 80px;
-    }
-
-}
-@media  screen and (max-width:930px){
     .div-13{
-        margin-top: 50px;
-    margin-left: -220px;
+        margin-left: -50px;
     }
-}
-@media screen and (max-width:540px){
-.div-13{
-margin-top: -145px;
-margin-left: -220px;
-}
-}
 
-
-
+}
 
 /* @media screen and (max-width:1200px){
 
