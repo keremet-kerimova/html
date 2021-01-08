@@ -986,57 +986,72 @@ color: #737373;
             height: 600px;
         }
     }
-    @media screen and (max-width:1100px){
+    @media screen and (max-width:1000px){
         .footer {
             margin-left: -50px;
             padding-left: 50px;
             height: 500px;
         }
-    .footer1{
-        margin-left: -210px;
+    .div-11{
+        padding-left: 100px;
     }
-    .div-15{
-        margin-left: 20px;
+    .div-12{
+        padding-left: 150px;
+    }
+    .div-13 {
+        margin: -150px 350px;
+    }
+    .div-15 {
+        margin: 250px 300px;
+        padding: 0px;
     }
     }
 @media screen and (max-width:800px){
     .div-13 {
         margin-top: 40px;
-        margin-left: -230px;
+        margin-left: -380px;
     }
     .div-15 {
-        margin: 99px 300px;
-        padding: 00px;
+        margin: 250px 180px;
+        padding: 0;
     }
     .footer {
         margin-left: -75px;
-        height: 900px;
+        height: 600px;
     }
     .footer1{
-        margin-left: -172px;
+        margin-left: -45px;
     
     }
 }
-/* @media screen and (max-width:620px){
+@media screen and (max-width:620px){
     .footer1 {
-        margin-left: -145px;
+        margin-left: 45px;
     }
     .div-15 {
-        margin-top: 220px;
-    margin-left: 300px;
+        margin: 0px 100px;
+        margin-top: 120px;
+    }
+    .section{
+        margin-left: -650px;
     }
     .div-13 {
-        margin-left: -220px;
+        margin-left: -400px;
         margin-top: -0px;
     }
     .div-12 {
-        margin-left: 150px;
+        margin-left: 200px;
         padding-top: 250px;
     }
-} */
+    .div-15 {
+        margin: 0px 100px;
+        margin-top: 220px;
+    }
+} 
 @media screen and (max-width:600px){
     .div-12 {
-        padding-left: 20px;
+        margin: -100px 10px;
+        padding-left: 80px;
      }
      .div-13 {
         margin: 0px 0px;
@@ -1044,10 +1059,9 @@ color: #737373;
         margin-top: 100px;
     }
     .div-15 {
-      margin-left: 500px;
+        margin: 0px 100px;
         margin-top: 110px;
     }
-
     .footer{
         background: #FAFAFA;
         height: 700px;
@@ -1057,17 +1071,31 @@ color: #737373;
     .div-11 {
         margin-left: 200px;
     }
-    .div-15{
-        margin-left: 210px;
+    .div-15 {
+        padding: 0px 90px;
+        margin: 150px 0px 100px 150px;
     }
     .div-13 {
-        margin-left: 110px;
-        margin-top: -0px;
+        margin-left: 0px;
+    }
+    .div-12 {
+        margin-left: 100px;
+        margin-top: 80px;
     }
 
 }
-
-
+@media  screen and (max-width:930px){
+    .div-13{
+        margin-top: 50px;
+    margin-left: -220px;
+    }
+}
+@media screen and (max-width:540px){
+.div-13{
+margin-top: -145px;
+margin-left: -220px;
+}
+}
 
 
 
