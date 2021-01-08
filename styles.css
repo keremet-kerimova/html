@@ -1002,24 +1002,24 @@ color: #737373;
 @media screen and (max-width:800px){
     .div-13 {
         margin-top: 40px;
-        margin-left: -380px;
+        margin-left: -230px;
     }
     .div-15 {
-        margin: 250px 180px;
-        padding: 0;
+        margin: 99px 300px;
+        padding: 00px;
     }
     .footer {
         margin-left: -75px;
         height: 600px;
     }
     .footer1{
-        margin-left: -45px;
+        margin-left: -172px;
     
     }
 }
 @media screen and (max-width:620px){
     .footer1 {
-        margin-left: 45px;
+        margin-left: -145px;
     }
     .div-15 {
         margin: 0px 100px;
@@ -1040,8 +1040,7 @@ color: #737373;
 }
 @media screen and (max-width:600px){
     .div-12 {
-        margin: -100px 10px;
-        padding-left: 80px;
+        padding-left: 20px;
      }
      .div-13 {
         margin: 0px 0px;
