@@ -745,11 +745,17 @@ margin-left: 220px;
         margin-left: -650px;
     }
     .div-13 {
-        margin-top: 40px;
-        margin-left: -380px;
+        margin-top: -146px;
+        margin-left: -230px;
+    }
+    .div-12{
+        margin-left: 150px;
+    margin-top: 80px;
     }
     .div-15 {
         padding: 0;
+        margin-left: 300px;
+        margin-top: 100px;
     }
     .footer {
         margin-left: -75px;
@@ -765,6 +771,16 @@ margin-left: 220px;
     .botttom{
         margin-top: 20px;
     } 
+    /* .div2-7{
+        margin-left: 310px;
+    }
+    .div3-7{
+        margin-top: 50px;
+    margin-left: 310px;
+    }
+    .div-7{
+        height: 1000px;
+    } */
 }
 
 @media screen and (max-width:620px){
@@ -829,7 +845,6 @@ margin-left: 220px;
         padding-top: 250px;
     }
     .div-15 {
-        /* margin: 0px 100px; */
         margin-top: 220px;
     }
  } 
@@ -870,7 +885,6 @@ margin-left: 220px;
     margin-top: 100px;
 }
 .div-15 {
-    /* margin: 0px 100px; */
     margin-top: 110px;
 }
 .div1-8 {
@@ -989,7 +1003,7 @@ padding-left: 50px;
         margin-left: 270px;
         margin-top: 30px;
     }  
-    .div-13{
+    /* .div-13{
         margin-left: 50px;
     margin-top: -150px;
     } 
@@ -1000,7 +1014,7 @@ padding-left: 50px;
     .div-15{
         margin-top: 100px;
     margin-left: 250px;
-    }
+    } */
     .parent{
         margin-left: -150px;
     }
