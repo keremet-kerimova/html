@@ -943,8 +943,7 @@ padding-left: 50px;
     margin-left: -80px;
 }
 .img-8{
-    margin-top: -130px;
-    margin-right: -750px;
+    margin-right: 150px;
 }
 .div-11 {
     margin-left: 80px;
@@ -960,13 +959,14 @@ padding-left: 50px;
     margin-left: 0px;
 } 
 .footer1{
-    margin-left: 0;
+    margin-left: -200px;
 }
 .div2-7{
     margin-left: 270px;
 }
 .div-7{
     height: 900px;
+    margin-left: -100px;
 }
 .div3-7 {
     margin-left: 350px;
@@ -980,6 +980,9 @@ padding-left: 50px;
 }
 .div-9{
     margin-left: 470px;
+}
+.div1-7{
+margin-left: 150px;
 }
 
 } 
