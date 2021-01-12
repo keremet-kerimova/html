@@ -685,13 +685,22 @@ color: #737373;
 }
 }
 @media screen and (max-width:1245px){
-    .parent{
+    /* .parent{
         margin-left: -100px;
     }
     .footer1{
         margin-left: -100px;
     }
-    /* .div7{
+.parent-2{
+    margin-left: -100px;
+}
+.div-7{
+    margin-left: -80px;
+}
+.div-8{
+    margin-left: -60px;
+} */
+.div7{
     flex-direction: column;
     justify-content: center;
     }
@@ -709,9 +718,9 @@ margin-left: 470px;
     margin-top: 100px;
 margin-left: 220px;
    }
-} */
-@media screen and (max-width:1200px){
-/* .parent-2 {
+} 
+@media screen and (max-width:900px){
+.parent-2 {
         height: 1300px;
         margin-left: -15px;
     }
@@ -726,16 +735,26 @@ margin-left: 220px;
         flex-wrap: nowrap;
         margin-left: -150px;
     }
-} */
+} 
 
 @media screen and (max-width:1000px){
-    .parent{
+    /* .parent{
         margin-left: -200px;
     }
     .parent-2{
         margin-left: -150px;
     }
-    /* .parent{
+    .pr2{
+        margin-left: 150px;
+    }
+    .div-7{
+        margin-left: -190px;
+    }
+    .div1-7{
+        margin-left: 200px;
+    } */
+
+    .parent{
         margin-left: -180px;
     }
     .div2-7{
@@ -751,9 +770,9 @@ margin-left: 220px;
     .div-8{
         height: 800px;
     }
-} */
+} 
 @media screen and (max-width:800px){
-    /* .parent {
+    .parent {
         justify-content: center;
         flex-direction: column;
         margin-left: -100px;
@@ -825,10 +844,10 @@ margin-left: 220px;
     .botttom{
         margin-top: 20px;
     } 
-} */
+} 
 
 @media screen and (max-width:620px){
-/* .parent {
+ .parent {
             margin-top: 50px;
             margin-left: -145px;
         }
@@ -953,9 +972,9 @@ padding-left: 50px;
         margin-left: -650px;
     }
    
-}  */
+}  
 @media screen and (max-width:500px){
-   /* .botttom{
+   .botttom{
        margin-top: 20px;
    }
     .parent-2 {
@@ -1029,9 +1048,9 @@ padding-left: 50px;
 margin-left: 150px;
 }
 
-}  */
+}  
 @media screen and (max-width:680px){
-    /* .img-5 {
+ .img-5 {
         width: 500px;
         margin-left: -50px;
     }
@@ -1054,9 +1073,9 @@ margin-left: 150px;
     .parent{
         margin-left: -150px;
     }
-} */
+} 
 @media screen and (max-width:1000px){
-    /* .parent{
+     .parent{
         margin-left: -180px;
     }
     .div2-7{
@@ -1072,5 +1091,5 @@ margin-left: 150px;
     .div-8{
         height: 800px;
     }
-} */
+} 
  
